@@ -248,13 +248,13 @@ module.exports = function (grunt) {
       cleanCSS: {
         path: 'dist/',
         pattern: '../dist/css/<%= pkg.name %>.min.css',
-        replacement: 'dist/css/<%= pkg.name %>.min.css',
+        replacement: 'css/<%= pkg.name %>.min.css',
         recursive: true
       },
       cleanJS: {
         path: 'dist/',
-        pattern: '../dist/css/<%= pkg.name %>.min.js',
-        replacement: 'dist/css/<%= pkg.name %>.min.js',
+        pattern: '../dist/js/<%= pkg.name %>.min.js',
+        replacement: 'js/<%= pkg.name %>.min.js',
         recursive: true
       },
       cleanImgPath: {
