@@ -225,6 +225,19 @@ module.exports = function (grunt) {
       theme: {}
     },
 
+    htmlmin: {
+      dist: {
+        options: {
+          removeComments: true,
+          collapseWhitespace: true
+        },
+        files: {
+          'dist/index.html': '_site/index.html',
+          'dist/signin.html': '_site/signin/index.html',
+        }
+      },
+    },
+
     sed: {
       cleanAssetsPath: {
         path: 'dist/',
@@ -245,7 +258,7 @@ module.exports = function (grunt) {
         recursive: true
       },
       cleanImgPath: {
-        path: 'dist/theme.html',
+        path: 'dist/signin.html',
         pattern: '../assets/img/',
         replacement: 'assets/img/',
       },
@@ -303,12 +316,6 @@ module.exports = function (grunt) {
     grunt.file.mkdir('dist/assets/');
   });
 
-  // Copy jekyll generated templates and rename for diazo
-  grunt.registerTask('copy-templates', '', function () {
-    grunt.file.copy('_site/index.html', 'dist/theme.html');
-    grunt.file.copy('_site/signin/index.html', 'dist/signin.html');
-  });
-
   // Docs HTML validation task
   grunt.registerTask('validate-html', ['jekyll', 'validation']);
 
@@ -334,7 +341,7 @@ module.exports = function (grunt) {
   grunt.registerTask('dist-cb', ['rev']);
 
   // Template distribution task.
-  grunt.registerTask('dist-html', ['jekyll:theme', 'copy-templates', 'sed']);
+  grunt.registerTask('dist-html', ['jekyll:theme', 'htmlmin', 'sed']);
 
   // Concurrent distribution task
   grunt.registerTask('dist-cc', ['test', 'concurrent:cj', 'concurrent:ha']);

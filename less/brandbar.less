@@ -5,3 +5,41 @@
 .app-brandbar {
     padding: @line-height-computed;
 }
+
+//
+// Signs and iconography
+//----------------------------------------------
+
+.app-sign {
+    display: inline-block;
+    .square(@navbar-height);
+    padding: ceil(@line-height-computed / 2);
+    border: ceil(@line-height-computed / 5) solid @app-gray;
+    border-radius: floor(@navbar-height / 2);
+    color: @app-gray;
+    font-size: (@font-size-base * 1.2);
+    text-align: center;
+    font-weight: 500;
+    line-height: 1;
+    &.app-sign-large,
+    &.app-sign-lg {
+        .square((@navbar-height * 2));
+        padding: @line-height-computed;
+        border-radius: @navbar-height;
+        font-size: @navbar-height;
+    }
+    &.app-sign-draggable {
+        border: none;
+    }
+    .icon-bar {
+        display: block;
+        width: 22px;
+        height: 2px;
+        border-radius: 1px;
+        border-color: @gray-dark;
+        background-color: @navbar-default-toggle-icon-bar-bg;
+    }
+    .icon-bar + .icon-bar {
+        margin-top: 4px;
+    }
+}
