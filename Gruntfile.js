@@ -300,7 +300,7 @@ module.exports = function (grunt) {
       cleanCSS: {
         path: '<%= appconfig.dist %>/',
         pattern: '../../<%= appconfig.dist %>/css/<%= pkg.name %>.css',
-        replacement: '<%= appconfig.dist %>/css/<%= pkg.name %>.min.css',
+        replacement: 'css/<%= pkg.name %>.min.css',
         recursive: true
       },
       cleanCSSFrontpage: {
@@ -318,7 +318,7 @@ module.exports = function (grunt) {
       cleanJS: {
         path: '<%= appconfig.dist %>/',
         pattern: '../../<%= appconfig.dist %>/js/<%= pkg.name %>.min.js',
-        replacement: 'dist/js/<%= pkg.name %>.min.js',
+        replacement: 'js/<%= pkg.name %>.min.js',
         recursive: true
       },
       cleanImgPath: {
