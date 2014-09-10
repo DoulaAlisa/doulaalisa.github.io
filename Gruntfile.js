@@ -299,25 +299,13 @@ module.exports = function (grunt) {
       },
       cleanCSS: {
         path: '<%= appconfig.dist %>/',
-        pattern: '../../<%= appconfig.dist %>/css/<%= pkg.name %>.css',
+        pattern: '../<%= appconfig.dist %>/css/<%= pkg.name %>.min.css',
         replacement: 'css/<%= pkg.name %>.min.css',
-        recursive: true
-      },
-      cleanCSSFrontpage: {
-        path: '<%= appconfig.dist %>/',
-        pattern: '../<%= appconfig.dist %>/css/<%= pkg.name %>.css',
-        replacement: 'css/<%= pkg.name %>.min.css',
-        recursive: true
-      },
-      cleanJSFrontpage: {
-        path: '<%= appconfig.dist %>/',
-        pattern: '../<%= appconfig.dist %>/js/<%= pkg.name %>.min.js',
-        replacement: 'js/<%= pkg.name %>.min.js',
         recursive: true
       },
       cleanJS: {
         path: '<%= appconfig.dist %>/',
-        pattern: '../../<%= appconfig.dist %>/js/<%= pkg.name %>.min.js',
+        pattern: '../<%= appconfig.dist %>/js/<%= pkg.name %>.min.js',
         replacement: 'js/<%= pkg.name %>.min.js',
         recursive: true
       },
@@ -326,7 +314,7 @@ module.exports = function (grunt) {
         pattern: '../assets/img/',
         replacement: 'assets/img/',
         recursive: true
-      },
+      }
     },
 
     validation: {
