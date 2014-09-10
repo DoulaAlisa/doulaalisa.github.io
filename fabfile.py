@@ -27,6 +27,6 @@ def deploy():
     with cd(env.code_root):
         run('nice git pull')
     msg = '[s1] Christoph Boehner updated dae site'
-    user = 'Deployed:'
+    user = 'fabric:'
     icon = ':shipit:'
     slack.chat.post_message('#general', msg, username=user, icon_emoji=icon)
