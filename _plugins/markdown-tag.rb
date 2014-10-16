@@ -11,7 +11,7 @@ module Jekyll
     end
 
     def render(context)
-      tmpl = File.read File.join Dir.pwd, "_snippets", @text
+      tmpl = File.read File.join Dir.pwd, "_copy", @text
       site = context.registers[:site]
       converter = site.getConverterImpl(Jekyll::Converters::Markdown)
       tmpl = (Liquid::Template.parse tmpl).render site.site_payload

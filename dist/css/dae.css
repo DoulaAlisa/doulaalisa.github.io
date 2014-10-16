@@ -8292,8 +8292,8 @@ button.close
     font-weight: normal;
     font-style: normal;
 
-    src: url('../assets/fonts/fontawesome-webfont.eot?v=4.2.0');
-    src: url('../assets/fonts/fontawesome-webfont.eot?#iefix&v=4.2.0') format('embedded-opentype'), url('../assets/fonts/fontawesome-webfont.woff?v=4.2.0') format('woff'), url('../assets/fonts/fontawesome-webfont.ttf?v=4.2.0') format('truetype'), url('../assets/fonts/fontawesome-webfont.svg?v=4.2.0#fontawesomeregular') format('svg');
+    src: url('../../assets/fonts/fontawesome-webfont.eot?v=4.2.0');
+    src: url('../../assets/fonts/fontawesome-webfont.eot?#iefix&v=4.2.0') format('embedded-opentype'), url('../../assets/fonts/fontawesome-webfont.woff?v=4.2.0') format('woff'), url('../../assets/fonts/fontawesome-webfont.ttf?v=4.2.0') format('truetype'), url('../../assets/fonts/fontawesome-webfont.svg?v=4.2.0#fontawesomeregular') format('svg');
 }
 .fa
 {
@@ -10513,6 +10513,13 @@ button.close
 html
 {
     font-size: 18px;
+}
+@media (min-width: 768px)
+{
+    html
+    {
+        font-size: 3rem;
+    }
 }
 pre
 {
