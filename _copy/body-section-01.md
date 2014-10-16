@@ -8,7 +8,7 @@ Sie umsorgt, unterstützt, informiert, ermutigt und hilft sich vertrauensvoll au
 
 Eine Doula begleitet die Frau bereits während der Schwangerschaft und hat rund um den errechneten Geburtstermin Rufbereitschaft. Sie bleibt während der Geburt kontinuierlich an der Seite der Frau bis das Kind geboren ist. Auch in der empfindsamen Zeit des Wochenbetts steht sie der jungen Mutter noch zur Seite.
 
-# Doula Alisa in Erding
+### Doula Alisa in Erding
 
 Als Doula begleite ich nicht nur Deine Hausgeburt, sondern fahre auch mit Dir in die Klinik oder komme mit in ein Geburtshaus, wenn Du Dir diese Umgebung für die Entbindung wünschst. Sollt sich heruasstellen, dass Dein Kind nicht zu Hause oder im Geburtshaus zur Welt kommen kann, begleite ich Dich selbstverstänlich in die Klinik und bleibe dort an Deiner Seite.
 
