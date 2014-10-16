@@ -17,15 +17,31 @@
 
 // Sitewide claim
 .app-brand-logo {
-  .make-md-column(6);
+  .make-md-column(4);
+  &.app-brand-logo-hero {
+    .make-md-column(6);
+  }
 }
 // The actual brandname
 .app-brand-info {
-  .make-md-column(6);
+  .make-md-column(8);
+  &.app-brand-info-hero {
+    .make-md-column(6);
+  }
 }
 
 .app-brand-title {
   h2 {
     color: @app-primary;
+  }
+}
+
+.app-brand-about {
+  margin-bottom: @line-height-computed;
+  font-size: 1.25rem;
+  font-weight: 300;
+  line-height: 1.4;
+  @media (min-width: @screen-sm-min) {
+    font-size: 1.5rem;
   }
 }

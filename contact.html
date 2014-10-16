@@ -1,0 +1,34 @@
+---
+layout: default
+title: Kontakt
+slug: contact
+lead: "Über mich"
+base_url: "../../"
+---
+<main class="app-page" id="content">
+    <div class="row">
+      <div class="col-sm-4">
+        <img class="app-img b-lazy"
+          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+          data-src="{{ page.base_url }}dist/assets/img/portrait.jpg"
+          alt="Logo Doula Alisa Foth" />
+      </div>
+      <div class="col-sm-8">
+        <div class="app-page-header">
+          <div class="app-page-title">
+            <h1 class="app-page-heading">Kontakt</h1>
+          </div>
+        </div>
+        <div class="app-page-body">
+          <div class="app-page-body-section">
+            {% markdown contact-01.md %}
+          </div>
+        </div>
+      </div>
+    </div>
+     <div class="app-page-body">
+        <div class="app-page-body-section">
+          {% markdown contact-02.md %}
+        </div>
+      </div>
+</main>
