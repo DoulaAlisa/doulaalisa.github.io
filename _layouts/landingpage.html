@@ -12,6 +12,28 @@
     <!-- App master nav -->
     {% include navbar.html %}
 
+    <div class="app-header">
+      <div class="app-header-content">
+        <div class="app-brand">
+          <div class="app-brand-logo">
+            <img class="app-img b-lazy"
+              src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+              data-src="{{ page.base_url }}dist/assets/img/logo.jpg"
+              alt="Logo Doula Alisa Foth" />
+          </div>
+          <div class="app-brand-info">
+            <div class="app-brand-title">
+              <h1>{{ page.title }}</h1>
+              <h2>{{ page.lead }}</h2>
+            </div>
+            <div class="app-brand-about">
+              {% markdown hero-about.md %}
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
     <div class="app-content" role="main">
           {{ content }}
     </div>

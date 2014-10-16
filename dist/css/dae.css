@@ -10940,6 +10940,12 @@ fieldset[disabled] .searchButton.active
     border-width: 0 0 1px 0;
     border-radius: 0;
 }
+.app-navbar-brand
+{
+    font-size: 1.5rem;
+
+    color: #670495;
+}
 .app-brandbar
 {
     padding: 1.42857143rem;
