@@ -16,7 +16,10 @@
       <div class="app-header-content">
         <div class="app-brand">
           <div class="app-brand-logo">
-            <img class="img-circle" data-src="holder.js/250x250/#000:#fff/text:portrait image" alt="Portait image">
+            <img class="app-img b-lazy"
+              src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+              data-src="{{ page.base_url }}dist/assets/img/logo.jpg"
+              alt="Logo Doula Alisa Foth" />
           </div>
           <div class="app-brand-info">
             <div class="app-brand-title">
@@ -31,10 +34,8 @@
       </div>
     </div>
 
-    <div class="container">
-        <div role="main">
+    <div class="app-content" role="main">
           {{ content }}
-        </div>
     </div>
 
     {% include footer.html %}
