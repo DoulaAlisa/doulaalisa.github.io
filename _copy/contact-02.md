@@ -16,3 +16,39 @@ FenKid ist ein Konzept zur Eltern-Kind-Begleitung in Gruppen, das sich an wissen
 
 ###Erziehungsberatungsstelle
 Die Erziehungsberatungsstelle Erding unterstützt Schwangere und Mütter bei folgenden Themen: Elternkurs „Kinder im Blick“, Familienpatenschaften, Gruppe für werdende Eltern – SAFE®Programm, Gruppe für mehrfach belastete Eltern, Schreibabys. Die Fachbereichsleiterin ist Frau Elisabeth Diemer, Tel: 08122- 89 20 530 [Erziehungsberatung Erding](http://www.landkreis-erding.de/Familie-Soziales/Erziehungsberatung.aspx)
+
+#Weitere Links, bei denen die Lisa jetzt zu müde ist, um sie ordentlich einzufügen:
+
+•	Mütterzentrum Erding
+             www.muetterzentrum-erding.de
+•	Schwangerenberatung in Dorfen
+
+Staatl. anerkannte Beratungsstelle für
+Schwangere
+Erdinger Str. 17
+84405 Dorfen
+
+www.schwanger-in-erding.de
+
+•	Schwangere in Not anonym & sicher
+Tel: 0800 – 40 40 020
+www.geburt-vertraulich.de 
+
+•	Schwangerenberatung  in Landshut
+       Staatl. anerkannte Beratungsstelle für
+Schwangerschaftsfragen
+Tel: 0871 – 408 – 5000
+www.schwanger-in-landshut.de 
+             
+•	Sternenkinder
+Angemessene Fotos von ehrenamtlichen Profifotografen (Suchfunktion nach Postleitzahl)
+www.dein-sternenkind.de 
+•	Wellcome
+             Koordinatorin: Ruth Moser
+             Tel: 0176 – 37 06 95 58
+             Freitags von 8:30-10:30
+
+•	Zentrum der Familie
+Säuglingspflege, Stillen, Babymassage,         Babyschwimmen, BEB
+             Tel: 08122 – 60 63
+
