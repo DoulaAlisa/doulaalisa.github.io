@@ -7,4 +7,5 @@ Meine Begleitung umfasst 2 Treffen vor und 2 Treffen nach der Geburt, 24 Stunden
 Für die gesamte Begleitung wird eine Pauschale von 350€ zzgl. Fahrtkosten (ab einer Fahrt >20km; 0,3€/km) vereinbart.
 
 Zusätzliche Treffen können individuell vereinbart und berechnet werden.
+
 Wenn Du Dich nach einem Kennenlerntermin für die Begleitung entscheidest, werden wir einen Vertrag miteinander schließen.
