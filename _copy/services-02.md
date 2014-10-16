@@ -9,8 +9,8 @@ Ich ersetze nicht die Arbeit der Hebamme, denn ich übernehme keine medizinische
 
 Sollte das Baby früher kommen, bin ich natürlich auch für Dich erreichbar und werde sobald es mir möglich ist zu Dir kommen.
 
-Falls Du es wünscht kann ich während und nach der Geburt Fotos machen und Du erhältst bei unserem Abschlusstreffen einen persönlichen Geburtsbericht mit Fotos. Wir treffen uns nach der Geburt, um Dein Erleben gemeinsam zu reflektieren und offene Fragen zu beantworten.
+Falls Du es wünschst, kann ich während und nach der Geburt Fotos machen und Du erhältst bei unserem Abschlusstreffen einen persönlichen Geburtsbericht mit Fotos. Wir treffen uns nach der Geburt, um Dein Erleben gemeinsam zu reflektieren und offene Fragen zu beantworten.
 
-Sollte ich aufgrund von Krankheit meinerseits nicht zur Geburt kommen können, informiere ich Dich rechtzeitig (Ich werde mich hier um Ersatz bemühen kann dies aber nicht garantieren!).
+Sollte ich aufgrund von Krankheit meinerseits nicht zur Geburt kommen können, informiere ich Dich rechtzeitig. Ich werde mich natürlich um Ersatz bemühen kann dies aber nicht garantieren.
 
 Falls Du es versäumen solltest mich zur Geburt zu rufen, ist dennoch die gesamte Pauschale zu zahlen.
