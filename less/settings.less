@@ -12,13 +12,18 @@
 @app-gray:                      #5a5f64;
 @app-gray-light:                #e3e4e5;
 
-// Example overides
-@text-color:                    rgb(21,21,19);
+// Brand text cclor #151513
+@brand-text-color:              rgb(21,21,19);
+// Text color #151513
+@text-color:                    lighten(@brand-text-color, 15%);
 @link-color:                    @app-danger;
 @brand-primary:                 @app-danger;
 
 @font-size-base:                16px;
 @font-family-base:              'Raleway', @font-family-sans-serif;
+
+// Raleway does not contain a 500 font weight
+@headings-font-weight:          400;
 
 // Font awesome font path
 @fa-font-path:                  "../../assets/fonts";
