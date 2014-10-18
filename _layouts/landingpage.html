@@ -16,10 +16,13 @@
       <div class="app-header-content">
         <div class="app-brand">
           <div class="app-brand-logo app-brand-logo-hero">
-            <img class="app-img b-lazy"
+            <img class="app-img b-lazy hidden"
               src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
               data-src="{{ page.base_url }}dist/assets/img/logo.jpg"
               alt="Logo Doula Alisa Foth" />
+            <div class="xapp-brand-logo-image svg-container svg-container-ph">
+              {% include logo.html %}
+            </div>
           </div>
           <div class="app-brand-info app-brand-info-hero">
             <div class="app-brand-title">

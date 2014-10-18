@@ -1172,11 +1172,11 @@ html
 }
 body
 {
-    font-family: 'Gudea', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-family: 'Raleway', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     font-size: 1rem;
     line-height: 1.42857143;
 
-    color: #333;
+    color: #151513;
     background-color: #fff;
 }
 input,
@@ -3567,7 +3567,7 @@ select[multiple].form-group-lg .form-control
     margin-top: 5px;
     margin-bottom: 10px;
 
-    color: #737373;
+    color: #585850;
 }
 @media (min-width: 768px)
 {
@@ -6158,7 +6158,7 @@ a.thumbnail.active
 {
     padding: 9px;
 
-    color: #333;
+    color: #151513;
 }
 .alert
 {
@@ -10630,6 +10630,27 @@ p
 {
     margin: 0 0 1.42857143rem;
 }
+.svg-container
+{
+    width: 100%;
+    margin: 0 auto;
+
+    border: 1px solid #670877;
+    background: #fff;
+}
+.svg-container-ph
+{
+    position: relative;
+
+    height: 0;
+    padding-top: 48%;
+}
+.svg-content
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
 .app-layout-simple
 {
     background: #333;
@@ -10719,7 +10740,7 @@ p
 {
     font-size: 1.75rem;
 
-    color: #670495 !important;
+    color: #670877 !important;
 }
 .app-brandbar
 {
@@ -10841,9 +10862,16 @@ p
         width: 50%;
     }
 }
+.app-brand-logo-image
+{
+    display: block;
+
+    max-width: 100%;
+    height: auto;
+}
 .app-brand-title h2
 {
-    color: #670495;
+    color: #670877;
 }
 .app-brand-about
 {
@@ -10883,7 +10911,7 @@ p
 {
     .app-page-abstract
     {
-        font-size: 1.5rem;
+        font-size: 1.75rem;
     }
 }
 .app-page-body-section

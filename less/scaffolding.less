@@ -100,3 +100,30 @@ p {
   margin: 0 0 @line-height-computed;
 }
 
+// SVG responsive implementation
+// -----------------------------
+
+// svg inline images need a dedicated container to be auto sizable
+.svg-container {
+    width: 100%;
+    margin: 0 auto;
+    background: #fff;
+    border: 1px solid @app-primary;
+}
+
+// Add padding hack to position svg
+// See: http://tympanus.net/Tutorials/ResponsiveSVGs/index4.html
+.svg-container-ph {
+  height: 0;
+  // Calculate apect ratio (svg height / svg width) * width-value;
+  padding-top: 48%;
+  position: relative;
+}
+
+// Position <svg> element inside container
+.svg-content {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+

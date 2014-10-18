@@ -398,7 +398,8 @@ module.exports = function (grunt) {
     ]);
     grunt.registerTask('dev', [
         'dist-css',
-        'dist-js'
+        'dist-js',
+        'dist-html'
     ]);
     grunt.registerTask('dist', [
         'clean',
