@@ -270,6 +270,49 @@ module.exports = function (grunt) {
                 recursive: true
             }
         },
+        replace: {
+            dist: {
+                options: {
+                    patterns: [
+                        {
+                            match: '../../assets/',
+                            replacement: 'assets/'
+                        },
+                        {
+                            match: '../assets/',
+                            replacement: 'assets/'
+                        },
+                        {
+                            match: '../../<%= appconfig.dist %>/js/<%= pkg.name %>.min.js',
+                            replacement: '/++theme++<%= pkg.name %>.sitetheme/<%= appconfig.dist %>/js/<%= pkg.name %>.min.js'
+                        },
+                        {
+                            match: '../<%= appconfig.dist %>/js/<%= pkg.name %>.min.js',
+                            replacement: '/++theme++<%= pkg.name %>.sitetheme/<%= appconfig.dist %>/js/<%= pkg.name %>.min.js'
+                        },
+                        {
+                            match: '../../<%= appconfig.dist %>/css/<%= pkg.name %>.css',
+                            replacement: '../css/<%= pkg.name %>.min.css'
+                        },
+                        {
+                            match: '../<%= appconfig.dist %>/css/<%= pkg.name %>.css',
+                            replacement: 'css/<%= pkg.name %>.min.css'
+                        }
+                    ],
+                    usePrefix: false,
+                    preserveOrder: true
+                },
+                files: [{
+                        expand: true,
+                        cwd: '<%= appconfig.dev %>',
+                        src: [
+                            '*.html',
+                            '{,*/}*.html'
+                        ],
+                        dest: '<%= appconfig.dev %>'
+                    }]
+            }
+        },
         validation: {
             options: {
                 charset: 'utf-8',
@@ -385,11 +428,16 @@ module.exports = function (grunt) {
         'newer:copy',
         'newer:imagemin'
     ]);
-    grunt.registerTask('dist-cb', ['filerev']);
+    grunt.registerTask('dist-cb', [
+        'filerev'
+    ]);
+    grunt.registerTask('html', [
+        'jekyll:theme'
+    ]);
     grunt.registerTask('dist-html', [
         'jekyll:theme',
-        'htmlmin',
-        'sed'
+        'replace',
+        'htmlmin'
     ]);
     grunt.registerTask('dist-cc', [
         'test',
@@ -397,9 +445,9 @@ module.exports = function (grunt) {
         'concurrent:ha'
     ]);
     grunt.registerTask('dev', [
-        'dist-css',
-        'dist-js',
-        'dist-html'
+        'jekyll:theme',
+        'less:compileTheme',
+        'newer:concat:dist'
     ]);
     grunt.registerTask('dist', [
         'clean',

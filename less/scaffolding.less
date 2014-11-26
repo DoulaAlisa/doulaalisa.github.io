@@ -71,21 +71,21 @@ body {
 }
 
 // Set font weights if webfont is active
-.ws-active {
+.wf-active {
     // Default twbs weight for headings 500 not provided by Open Sans
-    @headings-font-weight: 700;
+    @headings-font-weight: 600;
     b,
     strong {
-        font-weight: 700;
+        font-weight: 600;
     }
 }
 
 // prevent fake bolds
 b,
 strong {
-    font-weight: 700;
+    font-weight: 600;
     .ws-active & {
-        font-weight: 700;
+        font-weight: 600;
     }
 }
 
@@ -100,6 +100,14 @@ a:hover {
 p {
   margin: 0 0 @line-height-computed;
 }
+
+blockquote {
+  font-family: 'Droid Serif', @font-family-serif;
+  font-size: 1rem;
+  font-weight: 400;
+  font-style: italic;
+}
+
 
 // SVG responsive implementation
 // -----------------------------

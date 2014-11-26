@@ -21,6 +21,12 @@
   }
 }
 
+.app-page-body {
+  @media (min-width: @screen-md-min) {
+    padding: @line-height-computed ceil((@line-height-computed * 4));
+  }
+}
+
 .app-page-body-section {
     margin-bottom: ceil((@line-height-computed * 2));
 }
