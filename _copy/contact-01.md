@@ -1,4 +1,4 @@
-<p class="app-page-abstract">Du erreichst mich am Besten tagsüber telefonisch. Natürlich kannst Du mir auch gerne eine E-Mail schreiben. Ich rufe Dich gerne zurück.</p>
+<p class="app-page-abstract">Du erreichst mich am Besten tagsüber telefonisch. Natürlich kannst Du mir auch eine E-Mail schreiben. Ich rufe Dich gerne zurück.</p>
 
 ###Alisa Foth
 
