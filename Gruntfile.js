@@ -284,11 +284,11 @@ module.exports = function (grunt) {
                         },
                         {
                             match: '../../<%= appconfig.dist %>/js/<%= pkg.name %>.min.js',
-                            replacement: '/++theme++<%= pkg.name %>.sitetheme/<%= appconfig.dist %>/js/<%= pkg.name %>.min.js'
+                            replacement: '../js/<%= pkg.name %>.min.js'
                         },
                         {
                             match: '../<%= appconfig.dist %>/js/<%= pkg.name %>.min.js',
-                            replacement: '/++theme++<%= pkg.name %>.sitetheme/<%= appconfig.dist %>/js/<%= pkg.name %>.min.js'
+                            replacement: 'js/<%= pkg.name %>.min.js'
                         },
                         {
                             match: '../../<%= appconfig.dist %>/css/<%= pkg.name %>.css',
