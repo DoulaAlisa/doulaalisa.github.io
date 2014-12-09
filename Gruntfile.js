@@ -112,25 +112,41 @@ module.exports = function (grunt) {
             }
         },
         copy: {
-            fontawesome: {
-                expand: true,
-                flatten: true,
-                cwd: 'bower_components/',
-                src: ['font-awesome/fonts/*'],
-                dest: '<%= appconfig.dist %>/assets/fonts/'
+            theme: {
+                files: [
+                    {
+                        expand: true,
+                        flatten: true,
+                        cwd: 'bower_components/',
+                        src: ['font-awesome/fonts/*'],
+                        dest: '<%= appconfig.dist %>/assets/fonts/'
+                    },
+                    {
+                        expand: true,
+                        flatten: true,
+                        cwd: 'bower_components/',
+                        src: ['bootstrap/assets/ico/*'],
+                        dest: '<%= appconfig.dist %>/assets/ico/'
+                    },
+                    {
+                        expand: true,
+                        flatten: true,
+                        src: ['assets/ico/*'],
+                        dest: '<%= appconfig.dist %>/assets/ico/'
+                    }
+                ]
             },
-            ico: {
-                expand: true,
-                flatten: true,
-                cwd: 'bower_components/',
-                src: ['bootstrap/assets/ico/*'],
-                dest: '<%= appconfig.dist %>/assets/ico/'
-            },
-            favicon: {
-                expand: true,
-                flatten: true,
-                src: ['assets/ico/*'],
-                dest: '<%= appconfig.dist %>/assets/ico/'
+            dist: {
+                files: [
+                    {
+                        cwd: '<%= appconfig.dev %>',
+                        src: [
+                            '*.html',
+                            '{,*/}*.html'
+                        ],
+                        dest: '<%= appconfig.dist %>'
+                    }
+                ]
             }
         },
         imagemin: {
@@ -215,11 +231,7 @@ module.exports = function (grunt) {
                 options: {
                     removeComments: true,
                     collapseWhitespace: true,
-                    conservativeCollapse: true,
-                    removeEmptyAttributes: true,
-                    removeOptionalTags: true,
-                    removeRedundantAttributes: true,
-                    useShortDoctype: true
+                    // removeOptionalTags: true
                 },
                 files: [{
                         expand: true,
@@ -425,7 +437,7 @@ module.exports = function (grunt) {
         'cssmin'
     ]);
     grunt.registerTask('dist-assets', [
-        'newer:copy',
+        'newer:copy:theme',
         'newer:imagemin'
     ]);
     grunt.registerTask('dist-cb', [
