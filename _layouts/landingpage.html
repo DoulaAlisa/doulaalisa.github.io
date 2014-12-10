@@ -16,13 +16,10 @@
       <div class="app-header-content">
         <div class="app-brand">
           <div class="app-brand-logo app-brand-logo-hero">
-            <img class="app-img b-lazy hidden"
+            <img class="app-img b-lazy"
               src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-              data-src="{{ page.base_url }}dist/assets/img/logo.jpg"
-              alt="Logo Doula Alisa Foth" />
-            <div class="xapp-brand-logo-image svg-container svg-container-ph">
-              {% include logo.html %}
-            </div>
+              data-src="{{ page.base_url }}dist/assets/img/portrait-01.jpg"
+              alt="Logo Doula Alisa Foth">
           </div>
           <div class="app-brand-info app-brand-info-hero">
             <div class="app-brand-title">
@@ -30,7 +27,7 @@
               <h2>{{ page.lead }}</h2>
             </div>
             <div class="app-brand-about">
-              {% markdown hero-about.md %}
+              {% markdown about/hero-about.md %}
             </div>
           </div>
         </div>

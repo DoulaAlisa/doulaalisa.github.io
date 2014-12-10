@@ -10762,7 +10762,16 @@ blockquote
     font-size: 1.75rem;
     font-weight: 400;
 
+    padding-top: .33333333rem;
+
     color: #670877 !important;
+}
+.app-navbar-brandicon
+{
+    display: inline-block;
+
+    width: 100px;
+    height: 100px;
 }
 .app-brandbar
 {
@@ -10947,6 +10956,17 @@ blockquote
 {
     margin-bottom: 3rem;
 }
+.app-page-body-section > h2
+{
+    margin-bottom: 1.42857143rem;
+}
+.app-page-body-section h2 + p
+{
+    font-size: 1.125rem;
+    font-weight: 400;
+
+    margin-bottom: 3rem;
+}
 .app-footer
 {
     padding: 1.42857143rem;
@@ -11089,5 +11109,12 @@ blockquote
         margin-right: 0;
         margin-left: 0;
     }
+}
+.app-img
+{
+    display: block;
+
+    max-width: 100%;
+    height: auto;
 }
 /*# sourceMappingURL=dae.css.map */
