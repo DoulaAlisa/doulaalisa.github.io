@@ -1,1 +1,0 @@
-Begleitung während Schwangerschaft, Geburt und Wochenbett
