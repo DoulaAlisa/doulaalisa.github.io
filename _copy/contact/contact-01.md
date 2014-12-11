@@ -1,11 +1,14 @@
-<p class="app-page-abstract">Du erreichst mich am Besten tagsüber telefonisch. Natürlich kannst Du mir auch eine E-Mail schreiben. Ich rufe Dich gerne zurück.</p>
+##Kontakt
 
-###Alisa Foth
-
+Alisa Foth
 Professionelle Geburtsbegleitung
 
-Lindenstrasse 10<br>
-85435 Erding/Langengeisling
+Begleitung  während  Schwangerschaft,
+Geburt und Wochenbett
 
-Tel:    08122-1798093<br>
-E-Mail: info@doula-geburt.de 
+www.geburt-doula.de
+info@geburt-doula.de
+
+Telefon: 08122-1798093
+Lindenstraße 10
+85435 Erding/ Langengeisling
