@@ -1,4 +1,4 @@
-##Was ist eine Doula?
+## Was ist eine Doula?
 
 > Das Wort Doula ist altgriechisch und leitet sich von „doulalei“ ab, was * Dienerin, Freundin der Frau* bedeutet.
 

@@ -8,6 +8,10 @@
 
 .app-brandbar-content {
   .container();
+  text-align: center;
+  @media (min-width: @screen-md-min) {
+    text-align: left;
+  }
 }
 
 // Make a gridrow
@@ -17,25 +21,50 @@
 
 // Sitewide claim
 .app-brand-logo {
-  .make-md-column(4);
+  .make-md-column(3);
   &.app-brand-logo-hero {
-    .make-md-column(6);
-  }
-}
-// The actual brandname
-.app-brand-info {
-  .make-md-column(8);
-  &.app-brand-info-hero {
-    .make-md-column(6);
+    .make-sm-column(6);
   }
 }
 
 .app-brand-logo-image {
   display: block;
-  .img-responsive();
-  //.size(410px, 214px);
+  .square(120px);
+  margin-right: auto;
+  margin-left: auto;
+  @media (min-width: @screen-sm-min) {
+    margin: 0
+  }
+  > img {
+    .img-responsive();
+  }
 }
 
+
+// The actual brandname
+.app-brand-info {
+  .make-md-column(4);
+  &.app-brand-info-hero {
+    .make-md-column(6);
+  }
+}
+
+.app-brandname {
+  margin-top: @line-height-computed;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1;
+}
+
+.app-brandname-claim {
+  font-size: 1.25rem;
+  font-weight: 400;
+  color: @app-primary;
+}
+
+//== Hero unit
+//
+//## Frontpage brand name and subtitle
 .app-brand-title {
   h2 {
     color: @app-primary;

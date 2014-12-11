@@ -9,26 +9,26 @@
   </head>
   <body>
     <a href="#content" class="sr-only sr-only-focusable">Skip to main content</a>
-    <!-- App master nav -->
+    {% include brandbar.html %}
     {% include navbar.html %}
 
     <div class="app-header">
       <div class="app-header-content">
         <div class="app-brand">
-          <div class="app-brand-logo app-brand-logo-hero">
-            <img class="app-img b-lazy"
-              src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-              data-src="{{ page.base_url }}dist/assets/img/portrait-01.jpg"
-              alt="Logo Doula Alisa Foth">
-          </div>
-          <div class="app-brand-info app-brand-info-hero">
+          <div class="app-brand-info app-brand-info-hero col-md-push-6">
             <div class="app-brand-title">
               <h1>{{ page.title }}</h1>
-              <h2>{{ page.lead }}</h2>
+              <h2>Professionelle Geburts<span class="visible-xs-inline">-<br></span>begleitung</h2>
             </div>
             <div class="app-brand-about">
               Begleitung während Schwangerschaft, Geburt und Wochenbett
             </div>
+          </div>
+          <div class="app-brand-logo app-brand-logo-hero col-md-pull-6">
+            <img class="app-img b-lazy"
+              src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+              data-src="{{ page.base_url }}dist/assets/img/portrait-01.jpg"
+              alt="Logo Doula Alisa Foth">
           </div>
         </div>
       </div>

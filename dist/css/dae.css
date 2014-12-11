@@ -1626,7 +1626,7 @@ dd
 {
     margin-left: 0;
 }
-@media (min-width: 768px)
+@media (min-width: 992px)
 {
     .dl-horizontal dt
     {
@@ -4333,7 +4333,7 @@ tbody.collapse.in
 
     margin-bottom: 1px;
 }
-@media (min-width: 768px)
+@media (min-width: 992px)
 {
     .navbar-right .dropdown-menu
     {
@@ -5027,19 +5027,19 @@ select[multiple].input-group-sm > .input-group-btn > .btn
 {
     position: relative;
 
-    min-height: 100px;
+    min-height: 75px;
     margin-bottom: 1.42857143rem;
 
     border: 1px solid transparent;
 }
-@media (min-width: 768px)
+@media (min-width: 992px)
 {
     .navbar
     {
         border-radius: .22222222rem;
     }
 }
-@media (min-width: 768px)
+@media (min-width: 992px)
 {
     .navbar-header
     {
@@ -5063,7 +5063,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn
 {
     overflow-y: auto;
 }
-@media (min-width: 768px)
+@media (min-width: 992px)
 {
     .navbar-collapse
     {
@@ -5115,7 +5115,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn
     margin-right: -15px;
     margin-left: -15px;
 }
-@media (min-width: 768px)
+@media (min-width: 992px)
 {
     .container > .navbar-header,
     .container-fluid > .navbar-header,
@@ -5132,7 +5132,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn
 
     border-width: 0 0 1px;
 }
-@media (min-width: 768px)
+@media (min-width: 992px)
 {
     .navbar-static-top
     {
@@ -5147,7 +5147,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn
     right: 0;
     left: 0;
 }
-@media (min-width: 768px)
+@media (min-width: 992px)
 {
     .navbar-fixed-top,
     .navbar-fixed-bottom
@@ -5176,8 +5176,8 @@ select[multiple].input-group-sm > .input-group-btn > .btn
 
     float: left;
 
-    height: 100px;
-    padding: 49.28571429px 15px;
+    height: 75px;
+    padding: 36.78571429px 15px;
 }
 .navbar-brand:hover,
 .navbar-brand:focus
@@ -5188,7 +5188,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn
 {
     display: block;
 }
-@media (min-width: 768px)
+@media (min-width: 992px)
 {
     .navbar > .container .navbar-brand,
     .navbar > .container-fluid .navbar-brand
@@ -5202,9 +5202,9 @@ select[multiple].input-group-sm > .input-group-btn > .btn
 
     float: right;
 
-    margin-top: 33px;
+    margin-top: 20.5px;
     margin-right: 15px;
-    margin-bottom: 33px;
+    margin-bottom: 20.5px;
     padding: 9px 10px;
 
     border: 1px solid transparent;
@@ -5229,7 +5229,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn
 {
     margin-top: 4px;
 }
-@media (min-width: 768px)
+@media (min-width: 992px)
 {
     .navbar-toggle
     {
@@ -5238,7 +5238,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn
 }
 .navbar-nav
 {
-    margin: 24.64285714px -15px;
+    margin: 18.39285714px -15px;
 }
 .navbar-nav > li > a
 {
@@ -5247,7 +5247,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn
     padding-top: 10px;
     padding-bottom: 10px;
 }
-@media (max-width: 767px)
+@media (max-width: 991px)
 {
     .navbar-nav .open .dropdown-menu
     {
@@ -5278,7 +5278,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn
         background-image: none;
     }
 }
-@media (min-width: 768px)
+@media (min-width: 992px)
 {
     .navbar-nav
     {
@@ -5292,15 +5292,15 @@ select[multiple].input-group-sm > .input-group-btn > .btn
     }
     .navbar-nav > li > a
     {
-        padding-top: 49.28571429px;
-        padding-bottom: 49.28571429px;
+        padding-top: 36.78571429px;
+        padding-bottom: 36.78571429px;
     }
 }
 .navbar-form
 {
-    margin-top: 48.95238095px;
+    margin-top: 36.45238095px;
     margin-right: -15px;
-    margin-bottom: 48.95238095px;
+    margin-bottom: 36.45238095px;
     margin-left: -15px;
     padding: 10px 15px;
 
@@ -5380,7 +5380,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn
         top: 0;
     }
 }
-@media (max-width: 767px)
+@media (max-width: 991px)
 {
     .navbar-form .form-group
     {
@@ -5391,7 +5391,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn
         margin-bottom: 0;
     }
 }
-@media (min-width: 768px)
+@media (min-width: 992px)
 {
     .navbar-form
     {
@@ -5422,25 +5422,25 @@ select[multiple].input-group-sm > .input-group-btn > .btn
 }
 .navbar-btn
 {
-    margin-top: 48.95238095px;
-    margin-bottom: 48.95238095px;
+    margin-top: 36.45238095px;
+    margin-bottom: 36.45238095px;
 }
 .navbar-btn.btn-sm
 {
-    margin-top: 49.08472222px;
-    margin-bottom: 49.08472222px;
+    margin-top: 36.58472222px;
+    margin-bottom: 36.58472222px;
 }
 .navbar-btn.btn-xs
 {
-    margin-top: 39px;
-    margin-bottom: 39px;
+    margin-top: 26.5px;
+    margin-bottom: 26.5px;
 }
 .navbar-text
 {
-    margin-top: 49.28571429px;
-    margin-bottom: 49.28571429px;
+    margin-top: 36.78571429px;
+    margin-bottom: 36.78571429px;
 }
-@media (min-width: 768px)
+@media (min-width: 992px)
 {
     .navbar-text
     {
@@ -5450,7 +5450,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn
         margin-left: 15px;
     }
 }
-@media (min-width: 768px)
+@media (min-width: 992px)
 {
     .navbar-left
     {
@@ -5537,7 +5537,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn
     color: #555;
     background-color: #eee;
 }
-@media (max-width: 767px)
+@media (max-width: 991px)
 {
     .navbar-default .navbar-nav .open .dropdown-menu > li > a
     {
@@ -5656,7 +5656,7 @@ fieldset[disabled] .navbar-default .btn-link:focus
     color: #fff;
     background-color: #080808;
 }
-@media (max-width: 767px)
+@media (max-width: 991px)
 {
     .navbar-inverse .navbar-nav .open .dropdown-menu > .dropdown-header
     {
@@ -10678,7 +10678,7 @@ blockquote
 }
 .app-signin
 {
-    margin-top: 200px;
+    margin-top: 150px;
 
     border-radius: 0;
 }
@@ -10743,7 +10743,7 @@ blockquote
 }
 .app-register
 {
-    margin-bottom: 100px;
+    margin-bottom: 75px;
 
     border-bottom: 5px solid #5cb85c;
 }
@@ -10759,19 +10759,42 @@ blockquote
 }
 .app-navbar-brand
 {
-    font-size: 1.75rem;
-    font-weight: 400;
+    font-weight: 300;
 
-    padding-top: .33333333rem;
-
-    color: #670877 !important;
+    text-transform: uppercase;
 }
 .app-navbar-brandicon
 {
     display: inline-block;
 
-    width: 100px;
-    height: 100px;
+    width: 75px;
+    height: 75px;
+}
+.app-navbar-toggle
+{
+    border-color: transparent !important;
+}
+.app-navbar-toggle:hover,
+.app-navbar-toggle:focus
+{
+    background-color: #ddd;
+}
+.app-navbar-toggle .icon-bar
+{
+    background-color: #888;
+}
+.app-navbar-toggle .icon-bar
+{
+    display: block;
+
+    width: 30px;
+    height: 2px;
+
+    border-radius: 1px;
+}
+.app-navbar-toggle .icon-bar + .icon-bar
+{
+    margin-top: 8px;
 }
 .app-brandbar
 {
@@ -10783,6 +10806,8 @@ blockquote
     margin-left: auto;
     padding-right: 15px;
     padding-left: 15px;
+
+    text-align: center;
 }
 @media (min-width: 768px)
 {
@@ -10811,13 +10836,20 @@ blockquote
     margin-right: -15px;
     margin-left: -15px;
 }
-@media (min-width: 768px)
+@media (min-width: 992px)
 {
     .app-brandbar-content > .navbar-header,
     .app-brandbar-content > .navbar-collapse
     {
         margin-right: 0;
         margin-left: 0;
+    }
+}
+@media (min-width: 992px)
+{
+    .app-brandbar-content
+    {
+        text-align: left;
     }
 }
 .app-brand
@@ -10839,7 +10871,7 @@ blockquote
     {
         float: left;
 
-        width: 33.33333333%;
+        width: 25%;
     }
 }
 .app-brand-logo.app-brand-logo-hero
@@ -10850,7 +10882,7 @@ blockquote
     padding-right: 15px;
     padding-left: 15px;
 }
-@media (min-width: 992px)
+@media (min-width: 768px)
 {
     .app-brand-logo.app-brand-logo-hero
     {
@@ -10858,6 +10890,29 @@ blockquote
 
         width: 50%;
     }
+}
+.app-brand-logo-image
+{
+    display: block;
+
+    width: 120px;
+    height: 120px;
+    margin-right: auto;
+    margin-left: auto;
+}
+@media (min-width: 768px)
+{
+    .app-brand-logo-image
+    {
+        margin: 0;
+    }
+}
+.app-brand-logo-image > img
+{
+    display: block;
+
+    max-width: 100%;
+    height: auto;
 }
 .app-brand-info
 {
@@ -10873,7 +10928,7 @@ blockquote
     {
         float: left;
 
-        width: 66.66666667%;
+        width: 33.33333333%;
     }
 }
 .app-brand-info.app-brand-info-hero
@@ -10893,12 +10948,20 @@ blockquote
         width: 50%;
     }
 }
-.app-brand-logo-image
+.app-brandname
 {
-    display: block;
+    font-size: 2rem;
+    font-weight: 400;
+    line-height: 1;
 
-    max-width: 100%;
-    height: auto;
+    margin-top: 1.42857143rem;
+}
+.app-brandname-claim
+{
+    font-size: 1.25rem;
+    font-weight: 400;
+
+    color: #670877;
 }
 .app-brand-title h2
 {
@@ -11007,7 +11070,7 @@ blockquote
     margin-right: -15px;
     margin-left: -15px;
 }
-@media (min-width: 768px)
+@media (min-width: 992px)
 {
     .app-footer-content > .navbar-header,
     .app-footer-content > .navbar-collapse
@@ -11018,7 +11081,7 @@ blockquote
 }
 .app-toolbar + .app-navbar
 {
-    margin-top: 100px;
+    margin-top: 75px;
 }
 .app-header
 {
@@ -11058,7 +11121,7 @@ blockquote
     margin-right: -15px;
     margin-left: -15px;
 }
-@media (min-width: 768px)
+@media (min-width: 992px)
 {
     .app-header-content > .navbar-header,
     .app-header-content > .navbar-collapse
@@ -11101,7 +11164,7 @@ blockquote
     margin-right: -15px;
     margin-left: -15px;
 }
-@media (min-width: 768px)
+@media (min-width: 992px)
 {
     .app-content > .navbar-header,
     .app-content > .navbar-collapse
