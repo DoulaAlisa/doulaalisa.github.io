@@ -250,6 +250,10 @@ module.exports = function (grunt) {
                 options: {
                     patterns: [
                         {
+                            match: '<%= config.dist %>/assets/',
+                            replacement: 'assets/'
+                        },
+                        {
                             match: '../assets/',
                             replacement: 'assets/'
                         },
