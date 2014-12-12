@@ -1304,7 +1304,7 @@ h6,
 .h5,
 .h6
 {
-    font-family: inherit;
+    font-family: 'Gudea', 'Raleway', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     font-weight: 400;
     line-height: 1.1;
 
@@ -10754,12 +10754,15 @@ blockquote
 }
 .app-navbar
 {
+    font-family: 'Gudea', 'Raleway', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 1.25rem;
+
     border-width: 0 0 1px 0;
     border-radius: 0;
 }
 .app-navbar-brand
 {
-    font-weight: 300;
+    font-weight: 400;
 
     text-transform: uppercase;
 }
@@ -10950,6 +10953,7 @@ blockquote
 }
 .app-brandname
 {
+    font-family: 'Gudea', 'Raleway', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     font-size: 2rem;
     font-weight: 400;
     line-height: 1;
@@ -10958,10 +10962,15 @@ blockquote
 }
 .app-brandname-claim
 {
-    font-size: 1.25rem;
+    font-family: 'Gudea', 'Raleway', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 1.5rem;
     font-weight: 400;
 
     color: #670877;
+}
+.app-brand-title
+{
+    font-family: 'Gudea', 'Raleway', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 .app-brand-title h2
 {
@@ -11025,6 +11034,7 @@ blockquote
 }
 .app-page-body-section h2 + p
 {
+    font-family: 'Gudea', 'Raleway', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     font-size: 1.125rem;
     font-weight: 400;
 
@@ -11038,10 +11048,14 @@ blockquote
 }
 .app-footer-content
 {
+    font-weight: 600;
+
     margin-right: auto;
     margin-left: auto;
     padding-right: 15px;
     padding-left: 15px;
+
+    color: #585850;
 }
 @media (min-width: 768px)
 {
