@@ -11072,18 +11072,18 @@ blockquote
         font-size: 1.75rem;
     }
 }
-.app-page-body
-{
-    padding-top: 75px;
-
-    border-top: 1px solid #777;
-}
 @media (min-width: 992px)
 {
     .app-page-body
     {
         margin: 75px 6rem 1.42857143rem;
     }
+}
+.app-page-header + .app-page-body
+{
+    padding-top: 75px;
+
+    border-top: 1px solid #777;
 }
 .app-page-body-section
 {

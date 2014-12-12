@@ -44,11 +44,14 @@
 }
 
 .app-page-body {
-  padding-top: @navbar-height;
-  border-top: 1px solid @gray-light;
   @media (min-width: @screen-md-min) {
     margin: @navbar-height ceil((@line-height-computed * 4)) @line-height-computed;
   }
+}
+
+.app-page-header + .app-page-body {
+  padding-top: @navbar-height;
+  border-top: 1px solid @gray-light;
 }
 
 .app-page-body-section {
