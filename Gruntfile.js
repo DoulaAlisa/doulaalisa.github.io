@@ -441,7 +441,7 @@ module.exports = function (grunt) {
         'csscomb',
         'cssmin'
     ]);
-    grunt.registerTask('dist-assets', [
+    grunt.registerTask('assets', [
         'newer:copy',
         'newer:imagemin'
     ]);
