@@ -1,7 +1,3 @@
-## Für den werdenden Vater
-
-Bei der Geburt Ihres Kindes werde ich als Ihre Doula Ihre Wünsche ebenso respektieren wie die Ihrer Partnerin.
-
 Ich finde es gut, mit Ihnen gemeinsam einen unterstützenden Personenkreis während Schwangerschaft, Geburt und Wochenbett um Ihre Partnerin zu bilden, welche gerade eine besondere Phase in ihrem Leben erlebt.
 
 Als Doula möchte ich Ihnen für den Zeitraum dieser besonderen Phase eine vertraute, geburtserfahrene Begleitung und Freundin sein, die für Ihre Wünsche, Bedürfnisse und auch Ängste da ist.

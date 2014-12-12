@@ -1,7 +1,3 @@
-## Über mich
-
-Mein Name ist Alisa Foth. Ich wurde 1986 in München geboren, bin verheiratet und Mutter von zwei Söhnen (2008 & 2012).
-
 Ursprünglich habe ich den Beruf der Zahntechnikerin in unserem Familienbetrieb gelernt. Diese Ausbildung wirkt sich bis heute auf meine sorgfältige Arbeitsweise aus.
 
 Allerdings hatte ich nicht erst seit der Geburt meines ersten Sohnes den tiefen Wunsch meine berufliche Zukunft im Bereich der Geburtsbegleitung zu suchen. Mit dem Herzendienst als Doula in Erding und Umgebung fand ich Ihn.

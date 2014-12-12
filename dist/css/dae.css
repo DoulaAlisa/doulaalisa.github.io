@@ -7935,6 +7935,8 @@ button.close
 .app-brandbar-content:after,
 .app-brand:before,
 .app-brand:after,
+.app-page-header:before,
+.app-page-header:after,
 .app-footer-content:before,
 .app-footer-content:after,
 .app-header-content:before,
@@ -7963,6 +7965,7 @@ button.close
 .modal-footer:after,
 .app-brandbar-content:after,
 .app-brand:after,
+.app-page-header:after,
 .app-footer-content:after,
 .app-header-content:after,
 .app-content:after
@@ -10995,12 +10998,64 @@ blockquote
 {
     padding: 1.42857143rem 0;
 }
-.app-page-title
+.app-page-header
 {
-    margin: 2.85714286rem 0 1.42857143rem;
-    padding-bottom: -.28571429rem;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+.app-page-title,
+.app-page-leadimage
+{
+    position: relative;
 
-    border-bottom: 1px solid #eee;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+@media (min-width: 768px)
+{
+    .app-page-title,
+    .app-page-leadimage
+    {
+        float: left;
+
+        width: 50%;
+    }
+}
+.app-page-header-content
+{
+    position: relative;
+
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+@media (min-width: 768px)
+{
+    .app-page-header-content
+    {
+        float: left;
+
+        width: 100%;
+    }
+}
+.app-page-title p,
+.app-page-header-content p
+{
+    font-family: 'Gudea', 'Raleway', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 1.125rem;
+    font-weight: 400;
+    line-height: 1.25;
+
+    margin-bottom: 1.42857143rem;
+}
+@media (min-width: 768px)
+{
+    .app-page-title p,
+    .app-page-header-content p
+    {
+        font-size: 1.5rem;
+    }
 }
 .app-page-abstract
 {
@@ -11017,11 +11072,17 @@ blockquote
         font-size: 1.75rem;
     }
 }
+.app-page-body
+{
+    padding-top: 75px;
+
+    border-top: 1px solid #777;
+}
 @media (min-width: 992px)
 {
     .app-page-body
     {
-        padding: 1.42857143rem 6rem;
+        margin: 75px 6rem 1.42857143rem;
     }
 }
 .app-page-body-section
@@ -11042,18 +11103,27 @@ blockquote
 }
 .app-footer
 {
-    padding: 1.42857143rem;
+    padding: 1.42857143rem 0rem;
 
-    border-top: 1px solid #eee;
+    border-top: 1px solid #555;
+}
+@media (min-width: 768px)
+{
+    .app-footer
+    {
+        padding: 1.42857143rem;
+    }
 }
 .app-footer-content
 {
-    font-weight: 600;
+    font-weight: 400;
 
     margin-right: auto;
     margin-left: auto;
     padding-right: 15px;
     padding-left: 15px;
+
+    text-align: center;
 
     color: #585850;
 }
@@ -11092,6 +11162,10 @@ blockquote
         margin-right: 0;
         margin-left: 0;
     }
+}
+.app-footer-copyright
+{
+    font-size: .8rem;
 }
 .app-toolbar + .app-navbar
 {

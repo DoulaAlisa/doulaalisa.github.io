@@ -1,29 +1,32 @@
 ---
-layout: default
+layout: fbsdk
 title: Kontakt
 slug: contact
 lead: "Über mich"
 base_url: "../../"
 ---
 <main class="app-page" id="content">
-    <div class="row">
-      <div class="col-sm-4">
-        <img class="app-img b-lazy"
+  <div class="app-page-header">
+    <div class="app-page-title col-md-push-6">
+      {% markdown contact/contact-01.md %}
+    </div>
+    <div class="app-page-leadimage col-md-pull-6">
+      <img class="app-img b-lazy"
           src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-          data-src="{{ page.base_url }}dist/assets/img/portrait-01.jpg"
-          alt="Logo Doula Alisa Foth" />
-      </div>
-      <div class="col-sm-8">
-        <div class="app-page-header">
-          <div class="app-page-title">
-            <h1 class="app-page-heading">Kontakt</h1>
-          </div>
+          data-src="{{ page.base_url }}dist/assets/img/contact.jpg"
+          alt="Doula Alisa Foth" />
+    </div>
+  </div>
+  <div class="app-page-body">
+    <div class="app-page-body-section">
+      <div class="row">
+        <div class="col-sm-6">
+          {% markdown contact/contact-02.md %}
         </div>
-        <div class="app-page-body">
-          <div class="app-page-body-section">
-            {% markdown contact/contact-01.md %}
-          </div>
+        <div class="col-sm-6">
+          <div class="fb-like-box" data-href="https://developers.facebook.com/docs/plugins/like-box-for-pages?locale=de_DE" data-colorscheme="light" data-show-faces="true" data-header="true" data-stream="false" data-show-border="true"></div>
         </div>
       </div>
     </div>
+  </div>
 </main>

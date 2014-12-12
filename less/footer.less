@@ -3,12 +3,21 @@
 // -----------------------------------
 
 .app-footer {
-    padding: @line-height-computed;
-    border-top: 1px solid @gray-lighter;
+    padding: @line-height-computed floor((@line-height-computed / 3));
+    border-top: 1px solid @gray;
+    @media (min-width: @screen-sm-min) {
+      padding: @line-height-computed;
+    }
+
 }
 
 .app-footer-content {
   .container();
-  font-weight: 600;
+  font-weight: 400;
+  text-align: center;
   color: lighten(@text-color, 10%);
+}
+
+.app-footer-copyright {
+  font-size: 0.8rem;
 }
