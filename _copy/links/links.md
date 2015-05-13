@@ -29,3 +29,11 @@ Staatlich anerkannte Beratungsstelle für Schwangerschaftsfragen beim Gesundheit
 
 ###Sternenkinder
 Einfühlsame Bilder und Filmaufnahmen von ehrenamtlichen Fotografen helfen Eltern von Sternenkindern bei der Trauerbewältigung: [Initiative Dein Sternenkind](http://www.dein-sternenkind.de/)
+
+###Trageberatung
+Trageberatung für alle Fragen rund ums Tragen (mit Verleih) und Babymassagekurse: 
+[Trageberatung Erding](http://www.babymassage-erding.de/)
+
+###SAFE®
+SAFE® ist ein Programm, das die sichere Bindung zwischen Eltern und Kind fördert. Es wurde entwickelt von Dr. med. Karl-Heinz Brisch:
+[SAFE®](www.safe-programm.de)
