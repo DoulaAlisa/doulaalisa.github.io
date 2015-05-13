@@ -11,13 +11,13 @@ Vielleicht beschäftigen Sie - so wie viele andere werdende Eltern auch - einige
 - Wie kann ich verhindern, dass ich unbewusst eigene belastende Kindheitserlebnisse an mein Kind weitergebe?
 - u.v.m.
 
-SAFE® - Sichere Ausbildung für Eltern ist immer auf dem neuesten Stand der wissenschaftlichen Erkenntnisse. Die Kurse können Ihnen dabei helfen, Ihre persönlichen, elterlichen Kompetenzen zu stärken und Sie befähigen, eine positive Eltern-Kind-Beziehung aufzubauen, als Grundstein für die weitere gesunde Entwicklung Ihres Kindes.
+SAFE&reg; - Sichere Ausbildung für Eltern ist immer auf dem neuesten Stand der wissenschaftlichen Erkenntnisse. Die Kurse können Ihnen dabei helfen, Ihre persönlichen, elterlichen Kompetenzen zu stärken und Sie befähigen, eine positive Eltern-Kind-Beziehung aufzubauen, als Grundstein für die weitere gesunde Entwicklung Ihres Kindes.
 
-##Für wen eignen sich SAFE® – Elternkurse?
+## Für wen eignen sich SAFE® – Elternkurse?
 
-Das Projekt „SAFE® – Sichere Ausbildung für Eltern" wurde speziell dafür entwickelt, um (werdende) Eltern darin zu unterstützen, bereits ab der Schwangerschaft eine sichere Bindung zu ihrem Kind aufzubauen.
+Das Projekt „SAFE&reg; – Sichere Ausbildung für Eltern" wurde speziell dafür entwickelt, um (werdende) Eltern darin zu unterstützen, bereits ab der Schwangerschaft eine sichere Bindung zu ihrem Kind aufzubauen.
 
-SAFE® richtet sich an alle werdenden Eltern bis etwa zum 7. Schwangerschaftsmonat und wird bis zum Ende des ersten Lebensjahres in einer geschlossenen Gruppe durchgeführt.
+SAFE&reg; richtet sich an alle werdenden Eltern bis etwa zum 7. Schwangerschaftsmonat und wird bis zum Ende des ersten Lebensjahres in einer geschlossenen Gruppe durchgeführt.
  
 Die Kurse eignen sich für alle werdenden Eltern (und Alleinerziehende) oder auch Eltern, die schon Kinder haben und ein weiteres Baby erwarten. Alle Eltern möchten sich auf die Ankunft ihres Babys gut vorbereiten und können im SAFE-Kurs erfahren, wie sie ihrem Kind durch eine sichere Bindungsentwicklung die grundlegende Erfahrung von Urvertrauen, Sicherheit und Geliebt werden mit auf seinen Entwicklungsweg geben können
 
