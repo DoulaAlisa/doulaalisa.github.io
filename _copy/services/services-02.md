@@ -4,9 +4,9 @@ Meine Begleitung umfasst folgende Leistungen:
 - 24 h Rufbereitschaft 10 Tage vor und 10-14 Tage nach errechnetem Entbindungstermin
 - Begleitung während der gesamten Geburt
 
-Für die gesamte Begleitung wird eine Pauschale von 350€ zzgl. Fahrtkosten (ab einer Fahrt >20km; 0,3€/km) vereinbart.
+Für die gesamte Begleitung wird eine Pauschale von 500€ zzgl. Fahrtkosten (20 km Umkreis vom Wohnort Erding inkl. bei weiterer Anfahrt 0,30 €/km) vereinbart.
 
-Zusätzliche Leistungen:
+##Zusätzliche Leistungen:
 
 - ausführlicher Geburtsbericht
 - Fotodokumentation der Geburt
