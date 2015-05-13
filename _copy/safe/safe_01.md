@@ -1,4 +1,4 @@
-# SAFE&reg; - Sichere Ausbildung für Eltern
+## SAFE&reg; - Sichere Ausbildung für Eltern
 
 Ein Elternkurs zur Förderung einer sicheren Bindung zwischen Eltern und Kind.
 
@@ -17,7 +17,7 @@ Vielleicht beschäftigen Sie - so wie viele andere werdende Eltern auch - einige
 
 SAFE&reg; - Sichere Ausbildung für Eltern ist immer auf dem neuesten Stand der wissenschaftlichen Erkenntnisse. Die Kurse können Ihnen dabei helfen, Ihre persönlichen, elterlichen Kompetenzen zu stärken und Sie befähigen, eine positive Eltern-Kind-Beziehung aufzubauen, als Grundstein für die weitere gesunde Entwicklung Ihres Kindes.
 
-## Für wen eignen sich SAFE® – Elternkurse?
+### Für wen eignen sich SAFE® – Elternkurse?
 
 Das Projekt „SAFE&reg; – Sichere Ausbildung für Eltern" wurde speziell dafür entwickelt, um (werdende) Eltern darin zu unterstützen, bereits ab der Schwangerschaft eine sichere Bindung zu ihrem Kind aufzubauen.
 
