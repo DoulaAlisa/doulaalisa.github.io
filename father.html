@@ -6,9 +6,19 @@ lead: "Werdender Vater"
 base_url: "../../"
 ---
 <main class="app-page" id="content">
+  <div class="app-page-header">
+    <div class="app-page-title col-md-push-6">
+      {% markdown father-to-be/father-01.md %}
+    </div>
+    <div class="app-page-leadimage col-md-pull-6">
+      <img class="app-img b-lazy"
+          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+          data-src="{{ page.base_url }}dist/assets/img/father.jpg"
+          alt="Doula Alisa Foth" />
+    </div>
+  </div>
   <div class="app-page-body">
     <div class="app-page-body-section">
-      {% markdown father-to-be/father-01.md %}
       {% markdown father-to-be/father-02.md %}
     </div>
   </div>
