@@ -1,11 +1,12 @@
-## I am the first news on this very page
+## Gewinnspiel auf ED Live.de
+Noch bis zum 20. September 2015 hast Du die Möglichkeit, einen Platz in meinem Geburtsvorbereitungskurs zu gewinnen. [Hier](https://www.ed-live.de/gewinnspiele?id=166 "Geburtsvorbereitungskurs gewinnen") findest Du alle Informationen.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## Geburtsvorbereitungskurs
+Ich biete einen Geburtsvorbereitungskurs in Erding an. Wir werden gemeinsam die verschiedenen Phasen der Geburt besprechen und Atemtechniken kennenlernen. Bitte mitbringen: Getränke und bequeme Kleidung.
+- Termin: 6. Oktober bis 17. November immer Dienstags von 18:00 bis 20:00
+- Adresse: Hebammen Praxis in der Landshuter Straße 15, Erding
+- Anmeldung: Bitte per E-Mail oder telefonisch ([hier](http://geburt-doula.de/contact/index.html) findest Du meine Kontaktdaten)
 
-## news 2
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-## news 3
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## Babymassage
+Ab Dezember 2015 werde ich Kurse zur Babymassage anbieten. Die Termine gebe ich demnächst hier bekannt. Bei Interesse kannst Du gerne schon jetzt einen Platz reservieren.
+- Anmeldung: Bitte per E-Mail oder telefonisch ([hier](http://geburt-doula.de/contact/index.html) findest Du meine Kontaktdaten)
