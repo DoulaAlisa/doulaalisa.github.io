@@ -1,4 +1,4 @@
-## News 
+## News
 Termine und Neuigkeiten rund um meine Arbeit als Doula in Erding und Umgebung.
 
 ### Gewinnspiel auf ED Live.de
