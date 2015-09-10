@@ -1,4 +1,6 @@
-## News
+## News 
+Termine und Neuigkeiten rund um meine Arbeit als Doula in Erding und Umgebung.
+
 ### Gewinnspiel auf ED Live.de
 Noch bis zum 20. September 2015 hast Du die Möglichkeit, einen Platz in meinem Geburtsvorbereitungskurs zu gewinnen. [Hier](https://www.ed-live.de/gewinnspiele?id=166 "Geburtsvorbereitungskurs gewinnen") findest Du alle Informationen.
 
