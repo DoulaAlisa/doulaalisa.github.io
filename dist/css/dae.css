@@ -10994,6 +10994,18 @@ blockquote
         font-size: 1.5rem;
     }
 }
+.app-brandbar-actions
+{
+    text-align: right;
+}
+.app-brandbar-actions > li > a
+{
+    color: #555;
+}
+.app-brandbar-actions > li > a:hover
+{
+    color: #454545;
+}
 .app-page
 {
     padding: 1.42857143rem 0;
