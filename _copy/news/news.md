@@ -4,7 +4,7 @@ Termine und Neuigkeiten rund um meine Arbeit als Doula in Erding und Umgebung.
 ### Gewinnspiel auf ED Live.de
 Noch bis zum 20. September 2015 hast Du die Möglichkeit, einen Platz in meinem Geburtsvorbereitungskurs zu gewinnen. [Hier](https://www.ed-live.de/gewinnspiele?id=166 "Geburtsvorbereitungskurs gewinnen") findest Du alle Informationen.
 
-### Geburtsvorbereitender- und Entspannungskurs
+### Entspannungs-und geburtsvorbereitender Kurs
 Ich biete einen Geburtsvorbereitungskurs in Erding an. Wir werden gemeinsam die verschiedenen Phasen der Geburt besprechen und Atemtechniken kennenlernen. In diesem Kurs ist ein Paarabend eingeplant, bei dem die werdenden Väter herzlich Willkommen sind. Bitte zu jedem Termin mitbringen: Getränke und bequeme Kleidung.
 - Termin: 6. Oktober bis 17. November immer Dienstags von 18:00 bis 20:00
 - Adresse: Hebammen Praxis in der Landshuter Straße 15, Erding
