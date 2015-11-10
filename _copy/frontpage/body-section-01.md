@@ -1,6 +1,6 @@
 ## Geburts<span class="visible-xs-inline">-<br></span>begleitung in Erding und Umgebung
 
-Es ist für mich eine Herzensangelegenheit Sie als ausgebildete Doula während der Schwangerschaft, Geburt und im Wochenbett zu begleiten.
+Es ist für mich eine Herzensangelegenheit Sie als ausgebildete Doula während der Schwangerschaft, Geburt und im Wochenbett zu begleiten. Ich begleite Sie mit Zeit, Achtsamkeit, Empathie und Verantwortung.
 
 > Das Wort „Doula“ ist altgriechisch und leitet sich von „doulalei“ ab, was „Dienerin, Freundin der Frau“ bedeutet.
 
