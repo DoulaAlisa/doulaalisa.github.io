@@ -20,6 +20,7 @@ Ende der 80er Jahre präsentierten die amerikanischen Forscher M. Klaus und J. K
 
 Sie kamen zu folgenden Ergebnissen:
 Durch die Anwesenheit einer Doula kann
+
 - die Geburtsdauer um einige Stunden verkürzt werden (rund 25 % kürzer)
 - der Bedarf und damit die Menge der Schmerzmittel oder wehenfördernder Mittel reduziert werden
 	- Nachfrage nach einer PDA um 60% verringert 
