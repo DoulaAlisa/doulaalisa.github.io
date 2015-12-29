@@ -17,7 +17,11 @@ module Jekyll
       # tmpl = File.read File.join Dir.pwd, "_copy", @text
       path = File.join(dir, file)
       site = context.registers[:site]
-      converter = site.getConverterImpl(Jekyll::Converters::Markdown)
+      converter = if site.respond_to?(:find_converter_instance)
+        site.find_converter_instance(Jekyll::Converters::Markdown)
+      else
+        site.getConverterImpl(Jekyll::Converters::Markdown)
+      end
       tmpl = (Liquid::Template.parse(source(path, context))).render site.site_payload
       html = converter.convert(tmpl)
     end

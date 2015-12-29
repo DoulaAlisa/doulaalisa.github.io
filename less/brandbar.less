@@ -86,7 +86,10 @@
 
 // Action list
 .app-brandbar-actions {
-  text-align: right;
+  text-align: center;
+  @media (min-width: @screen-sm-min) {
+    text-align: right;
+  }
   > li > a {
     color: @gray;
     &:hover {

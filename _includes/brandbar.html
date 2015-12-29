@@ -9,7 +9,7 @@
                 alt="Logo Doula Alisa Foth" />
             </a>
           </div>
-          <div class="col-sm-6">
+          <div class="col-sm-4">
             <div class="app-brandname">
               Alisa Foth
             </div>
@@ -17,10 +17,13 @@
               Doula in Erding
             </div>
           </div>
-          <div class="col-sm-4">
+          <div class="col-sm-6">
             <ul class="nav nav-pills app-brandbar-actions">
               <li{% if page.slug == "contact" %} class="active"{% endif %}>
                 <a href="{{ page.base_url }}contact/index.html">Kontakt</a>
+              </li>
+              <li{% if page.slug == "news" %} class="active"{% endif %}>
+                <a href="{{ page.base_url }}news/index.html">News</a>
               </li>
               <li{% if page.slug == "guestbook" %} class="active"{% endif %}>
                 <a href="{{ page.base_url }}guestbook/index.html">Gästebuch</a>
