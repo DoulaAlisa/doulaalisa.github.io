@@ -2,15 +2,15 @@ Ursprünglich erlernte ich den Beruf der Zahntechnikerin. Allerdings hatte ich n
 
 Ich freue mich sehr darauf Euch werdenden Mamas bzw. Eltern während der Zeit der Schwangerschaft, Geburt und im Wochenbett, Freundin und Unterstützerin zu sein und Euch ein Stück Eures Weges begleiten zu können.
 
-## Ausbildung zur Doula
-
+# Ausbildung zur Doula
 Meine Ausbildung zur Doula habe ich 2014 bei Melanie Schöne ([Doulas in Deutschland e.V.](http://www.doulas-in-deutschland.de/index.php/doula-ausbildung "Doula Ausbildung")) und Debra Pascali-Bonaro (Dona International) absolviert.
 
 Mein Anliegen ist es Frauen dabei zu unterstützen und zu ermutigen während der Schwangerschaft und der Geburt in die Kraft und die Fähigkeiten ihres Körpers zu vertrauen.
 
-## Zertifizierung zur SAFE®-Mentorin
-
+# Zertifizierung zur SAFE®-Mentorin
 Seit März 2015 bin ich zusätzlich zertifizierte SAFE®- Mentorin.
 
-SAFE® ist ein Programm zur Förderung der sicheren Bindung zwischen Eltern und Kind (Sichere Ausbildung Für Eltern) entwickelt von OA PD Dr. med. Karl Heinz Brisch.
-Mehr zum SAFE® Programm findest Du [hier](http://geburt-doula.de/safe/index.html).
+SAFE® ist ein Programm zur Förderung der sicheren Bindung zwischen Eltern und Kind (Sichere Ausbildung Für Eltern) entwickelt von OA PD Dr. med. Karl Heinz Brisch. Mehr zum SAFE® Programm findest Du [hier](http://geburt-doula.de/safe/index.html).
+
+# Ausbildung zur Kursleiterin für Babymassage – Berührung mit Respekt® nach Vimala Schneider Mc Clure
+Die Ausbildung zur Kursleiterin für Babymassage habe ich bei der Deutschen Gesellschaft für Baby- und Kindermassage e.V.  absolviert. "Babymassage – Berührung mit Respekt®" dient einer gelungenen Bindungsentwicklung und verhilft Eltern und Kindern zu einem guten Start. Die Eltern-Kind-Beziehung hat in den Kursen der DGBM e.V. immer einen hohen Stellenwert. Eine gute Bindung ist das Wichtigste, was man seinem Kind mitgeben kann. Sie ist die Basis für Freiheit, Selbstvertrauen und Selbstbestimmung. 
