@@ -10758,7 +10758,7 @@ blockquote
 .app-navbar
 {
     font-family: 'Gudea', 'Raleway', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-    font-size: 1.25rem;
+    font-size: 1.2rem;
 
     border-width: 0 0 1px 0;
     border-radius: 0;
@@ -10968,6 +10968,12 @@ blockquote
 
     margin-top: 1.42857143rem;
 }
+.app-brandname > a
+{
+    text-decoration: none;
+
+    color: #3d3d37 !important;
+}
 .app-brandname-claim
 {
     font-family: 'Gudea', 'Raleway', 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -10975,6 +10981,12 @@ blockquote
     font-weight: 400;
 
     color: #670877;
+}
+.app-brandname-claim > a
+{
+    text-decoration: none;
+
+    color: #670877 !important;
 }
 .app-brand-title
 {
