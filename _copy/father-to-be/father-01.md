@@ -1,3 +1,4 @@
-## Für den werdenden Vater
+# Für den werdenden Vater
+Als Doula möchte ich Ihnen für den Zeitraum dieser besonderen Phase eine vertraute, geburtserfahrene Begleitung sein, die für Ihre Wünsche, Bedürfnisse und auch Ängste da ist.
 
-Bei der Geburt Ihres Kindes werde ich als Ihre Doula Ihre Wünsche ebenso respektieren wie die Ihrer Partnerin.
+Ich werde kontinuierlich während der Geburt für Sie da sein, und Sie unterstützen.

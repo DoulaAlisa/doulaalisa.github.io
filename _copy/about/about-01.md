@@ -1,3 +1,2 @@
 # Über mich
-
-Mein Name ist Alisa Foth. Ich wurde 1986 in München geboren, bin verheiratet und Mutter von zwei Söhnen (2008 & 2012).
+Mein Name ist Alisa Foth. Ich bin im Jahr 1986 geboren und Mama zweier Kinder.
