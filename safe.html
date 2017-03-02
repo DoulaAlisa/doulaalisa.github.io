@@ -8,7 +8,8 @@ base_url: "../../"
 <main class="app-page" id="content">
   <div class="app-page-body">
     <div class="app-page-body-section">
-      {% markdown safe/safe_01.md %}
+      {% capture copy_safe_01 %}{% include copy/safe/safe_01.md %}{% endcapture %}
+      {{ copy_safe_01 | markdownify }}
     </div>
   </div>
 </main>

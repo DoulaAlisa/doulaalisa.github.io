@@ -8,7 +8,8 @@ base_url: "../../"
 <main class="app-page" id="content">
   <div class="app-page-header">
     <div class="app-page-title col-md-push-6">
-      {% markdown contact/contact-01.md %}
+      {% capture copy_contact_01 %}{% include copy/contact/contact-01.md %}{% endcapture %}
+      {{ copy_contact_01 | markdownify }}
     </div>
     <div class="app-page-leadimage col-md-pull-6">
       <img class="app-img b-lazy"
@@ -21,7 +22,8 @@ base_url: "../../"
     <div class="app-page-body-section">
       <div class="row">
         <div class="col-sm-6">
-          {% markdown contact/contact-02.md %}
+          {% capture copy_contact_02 %}{% include copy/contact/contact-02.md %}{% endcapture %}
+          {{ copy_contact_02 | markdownify }}
         </div>
         <div class="col-sm-6">
           <div class="fb-like-box" data-href="https://www.facebook.com/pages/Doula-Alisa-Foth-Erding/1585727128330417" data-colorscheme="light" data-show-faces="true" data-header="true" data-stream="false" data-show-border="true"></div>

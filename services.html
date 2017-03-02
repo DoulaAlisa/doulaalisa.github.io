@@ -8,7 +8,8 @@ base_url: "../../"
 <main class="app-page" id="content">
   <div class="app-page-header">
     <div class="app-page-title col-md-push-6">
-      {% markdown services/services-01.md %}
+      {% capture copy_services_01 %}{% include copy/services/services-01.md %}{% endcapture %}
+      {{ copy_services_01 | markdownify }}
     </div>
     <div class="app-page-leadimage col-md-pull-6">
       <img class="app-img b-lazy"
@@ -19,7 +20,8 @@ base_url: "../../"
   </div>
   <div class="app-page-body">
     <div class="app-page-body-section">
-      {% markdown services/services-02.md %}
+      {% capture copy_services_02 %}{% include copy/services/services-02.md %}{% endcapture %}
+      {{ copy_services_02 | markdownify }}
     </div>
   </div>
 </main>

@@ -8,7 +8,8 @@ base_url: "../../"
 <main class="app-page" id="content">
     <div class="app-page-body">
       <div class="app-page-body-section">
-        {% markdown guestbook/guestbook.md %}
+        {% capture copy_guestbook_01 %}{% include copy/guestbook/guestbook.md %}{% endcapture %}
+        {{ copy_guestbook_01 | markdownify }}
       </div>
     </div>
     <div class="app-page-body">

@@ -8,7 +8,8 @@ base_url: "../../"
 <main class="app-page" id="content">
   <div class="app-page-body">
     <div class="app-page-body-section">
-      {% markdown fit-for-baby/fit-for-baby.md %}
+      {% capture copy_fit_for_baby_01 %}{% include copy/fit-for-baby/fit-for-baby.md %}{% endcapture %}
+      {{ copy_fit_for_baby_01 | markdownify }}
     </div>
   </div>
 </main>
