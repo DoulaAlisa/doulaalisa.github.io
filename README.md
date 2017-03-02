@@ -17,6 +17,10 @@ Now you should be able to deploy local changes by running
 (dae) fab deploy
 ```
 
-## Note
+## Deployment to github pages
 
-Deployment will post a message in the *#dev* slack.com channel.
+Deployment to github pages involves updating the assets needed for rendering the site.
+
+```bash
+grunt assets
+``

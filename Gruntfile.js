@@ -5,7 +5,8 @@ module.exports = function(grunt) {
   var config = {
     app: 'app',
     dev: '_site',
-    dist: 'dist'
+    dist: 'dist',
+    public: 'public'
   };
   grunt.initConfig({
     config: config,
@@ -132,6 +133,18 @@ module.exports = function(grunt) {
         flatten: true,
         src: ['assets/ico/*'],
         dest: '<%= config.dist %>/assets/ico/'
+      },
+      distjs: {
+        expand: true,
+        flatten: true,
+        src: ['<%= config.dist %>/js/*'],
+        dest: 'assets/scripts/'
+      },
+      distcss: {
+        expand: true,
+        flatten: true,
+        src: ['<%= config.dist %>/css/*'],
+        dest: 'assets/styles/'
       }
     },
     imagemin: {
@@ -176,6 +189,12 @@ module.exports = function(grunt) {
         src: [
             '<%= config.dist %>/js/<%= pkg.name %>.min.js',
             '<%= config.dist %>/css/<%= pkg.name %>.min.css'
+        ]
+      },
+      assetsgh: {
+        src: [
+            '<%= config.public %>/js/<%= pkg.name %>.min.js',
+            '<%= config.public %>/css/<%= pkg.name %>.min.css'
         ]
       },
       files: {
@@ -407,6 +426,7 @@ module.exports = function(grunt) {
   });
   grunt.registerTask('dist-init', '', function() {
     grunt.file.mkdir('<%= config.dist %>/assets/');
+    grunt.file.mkdir('public/');
   });
   grunt.registerTask('serve', function(target) {
     if (target === 'dist') {
@@ -458,6 +478,10 @@ module.exports = function(grunt) {
       'replace',
       'htmlmin'
   ]);
+  grunt.registerTask('html-base', [
+      'templates',
+      'replace',
+  ]);
   grunt.registerTask('dist-cc', [
       'test',
       'concurrent:cj'
@@ -477,9 +501,10 @@ module.exports = function(grunt) {
       'clean:server',
       'css',
       'js',
-      'html',
-      'filerev:assets',
-      'usemin'
+      'html-base',
+      'copy:distjs',
+      'copy:distcss'
+      // 'cb'
   ]);
   grunt.registerTask('compile-theme', ['dist']);
   grunt.registerTask('default', ['dev']);
