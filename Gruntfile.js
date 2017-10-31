@@ -51,7 +51,7 @@ module.exports = function(grunt) {
       options: {banner: '<%= banner %>'},
       dist: {
         src: ['<%= concat.dist.dest %>'],
-        dest: '<%= config.dist %>/js/<%= pkg.name %>.min.js'
+        dest: '<%= config.dist %>/scripts/<%= pkg.name %>.min.js'
       }
     },
     less: {
@@ -63,7 +63,7 @@ module.exports = function(grunt) {
           sourceMapURL: '<%= pkg.name %>.css.map',
           sourceMapFilename: '<%= config.dist %>/css/<%= pkg.name %>.css.map'
         },
-        files: {'<%= config.dist %>/css/<%= pkg.name %>.css': 'less/styles.less'}
+        files: {'<%= config.dist %>/styles/<%= pkg.name %>.css': 'less/styles.less'}
       }
     },
     autoprefixer: {
@@ -81,7 +81,7 @@ module.exports = function(grunt) {
       },
       core: {
         options: {map: true},
-        src: '<%= config.dist %>/css/<%= pkg.name %>.css'
+        src: '<%= config.dist %>/styles/<%= pkg.name %>.css'
       }
     },
     csslint: {
@@ -89,12 +89,12 @@ module.exports = function(grunt) {
       src: '<%= config.dist %>/css/<%= pkg.name %>.css'
     },
     cssmin: {
-      options: {
-        compatibility: 'ie8',
-        keepSpecialComments: '*',
-        noAdvanced: true
-      },
-      core: {files: {'<%= config.dist %>/css/<%= pkg.name %>.min.css': 'dist/css/<%= pkg.name %>.css'}}
+        options: {
+            compatibility: 'ie8',
+            keepSpecialComments: '*',
+            advanced: false
+        },
+        core: { files: { '<%= config.dist %>/styles/<%= pkg.name %>.min.css': '<%= config.dist %>/styles/<%= pkg.name %>.css' } }
     },
     csscomb: {
       sort: {
@@ -205,28 +205,32 @@ module.exports = function(grunt) {
       }
     },
     usemin: {
-      html: ['<%= config.dist %>/{,*/}*.html'],
-      htmlcustom: ['<%= config.dist %>/*.html'],
-      css: ['<%= config.dist %>/css/*.css'],
-      options: {
-        assetsDirs: [
-            '<%= config.dist %>',
-            '<%= config.dist %>/css',
-            '<%= config.dist %>/assets'
-        ],
-        patterns: {
-          htmlcustom: [
-              [
-                  /(?:src=|url\(\s*)['"]?([^'"\)(\?|#)]+)['"]?\s*\)?/gm,
-                  'Replacing src references in inline javascript'
-              ],
-              [
-                  /(?:data-src=|url\(\s*)['"]?([^'"\)(\?|#)]+)['"]?\s*\)?/gm,
-                  'Update the img data-src attributes with the new img filenames'
-              ]
-          ]
+        html: ['<%= config.dist %>/{,*/}*.html'],
+        htmlcustom: ['<%= config.dist %>/{,*/}*.html'],
+        css: ['<%= config.dist %>/styles/*.css'],
+        options: {
+            assetsDirs: [
+                '<%= config.dist %>',
+                '<%= config.dist %>/styles',
+                '<%= config.dist %>/assets'
+            ],
+            patterns: {
+                htmlcustom: [
+                    [
+                        /(?:src=|url\(\s*)['"]?([^'"\)(\?|#)]+)['"]?\s*\)?/gm,
+                        'Replacing src references in inline javascript'
+                    ],
+                    [
+                        /(?:loadCSS\(|url\(\s*)['"]?([^'"\)(\?|#)]+)['"]?\s*\)?/gm,
+                        'Update the load css source with the new img filenames'
+                    ],
+                    [
+                        /(?:data-src=|url\(\s*)['"]?([^'"\)(\?|#)]+)['"]?\s*\)?/gm,
+                        'Update the img data-src attributes with the new img filenames'
+                    ]
+                ]
+            }
         }
-      }
     },
     qunit: {
       options: {inject: 'js/tests/unit/phantom.js'},
@@ -267,38 +271,34 @@ module.exports = function(grunt) {
     replace: {
       dist: {
         options: {
-          patterns: [
-                        {
-                          match: '<%= config.dist %>/assets/',
-                          replacement: 'assets/'
-                        },
-                        {
-                          match: '../assets/',
-                          replacement: 'assets/'
-                        },
-                        {
-                          match: '../../assets/',
-                          replacement: '../assets/'
-                        },
-                        {
-                          match: '../../<%= config.dist %>/css/<%= pkg.name %>.min.css',
-                          replacement: '../css/<%= pkg.name %>.min.css'
-                        },
-                        {
-                          match: '../<%= config.dist %>/css/<%= pkg.name %>.min.css',
-                          replacement: 'css/<%= pkg.name %>.min.css'
-                        },
-                        {
-                          match: '../../<%= config.dist %>/js/*.js',
-                          replacement: '../js/<%= pkg.name %>.min.js'
-                        },
-                        {
-                          match: '../<%= config.dist %>/js/<%= pkg.name %>.min.js',
-                          replacement: 'js/<%= pkg.name %>.min.js'
-                        }
-                    ],
-          usePrefix: false,
-          preserveOrder: true
+            patterns: [
+                    {
+                        match: '../assets/',
+                        replacement: 'assets/'
+                    },
+                    {
+                        match: '../../assets/',
+                        replacement: '../assets/'
+                    },
+                    {
+                        match: '../../<%= config.dist %>/styles/<%= pkg.name %>.min.css',
+                        replacement: '../styles/<%= pkg.name %>.min.css'
+                    },
+                    {
+                        match: '../<%= config.dist %>/styles/<%= pkg.name %>.min.css',
+                        replacement: 'styles/<%= pkg.name %>.min.css'
+                    },
+                    {
+                        match: '../../<%= config.dist %>/scripts/<%= pkg.name %>.min.js',
+                        replacement: '../scripts/<%= pkg.name %>.min.js'
+                    },
+                    {
+                        match: '../<%= config.dist %>/scripts/<%= pkg.name %>.min.js',
+                        replacement: 'scripts/<%= pkg.name %>.min.js'
+                    }
+                ],
+                usePrefix: false,
+                preserveOrder: true
         },
         files: [{
           expand: true,
