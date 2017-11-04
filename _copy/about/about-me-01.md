@@ -5,7 +5,7 @@ Mein Anliegen ist es Frauen dabei zu unterstützen und zu ermutigen während der
 # Ausbildung zur Doula
 Meine Ausbildung zur Doula habe ich bei Melanie Schöne (Doulas in Deutschland e.V.) und Debra Pascali-Bonaro (Dona International) absolviert.
 
-# Zertifizierung zur SAFE®-Mentorin
+# Zertifizierung zur SAFE®- Mentorin
 Zusätzlich bin ich zertifizierte SAFE®- Mentorin.
 
 Hierbei handelt es sich um ein Programm zur Förderung der sicheren Bindung zwischen Eltern und Kind (Sichere Ausbildung Für Eltern) entwickelt von OA PD Dr. med. Karl Heinz Brisch.
