@@ -32,8 +32,3 @@ Veranstaltungsort: Katholisches Bildungswerk im Landkreis Erding e.V. und Zentru
 Details zum Elterncafé findest Du [hier](https://www.facebook.com/events/1763297197038173/) auf Facebook.
 
 Das Elterncafé ist kostenfrei. Eine Anmeldung ist nicht nötig. Komm einfach vorbei. Ich freue mich auf Dich!
-
-## Fit for Baby- ein kompetenter Start ins Eltern sein
-Mein Kursangebot wird erweitert durch einen "Fit for Baby Kurs". Dies ist ein Kurs für Schwangere und werdende Väter. Termine und Preise auf Anfrage. Bei Interesse kannst Du gerne einen Platz reservieren.
-
-**Anmeldung zur Babymassage**: Bitte per E-Mail oder telefonisch ([hier](http://geburt-doula.de/contact/index.html) findest Du meine Kontaktdaten)
