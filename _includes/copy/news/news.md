@@ -23,7 +23,10 @@ Details zu den Kursen findest Du [hier](https://www.facebook.com/pg/DoulaAlisaFo
 Anmeldung und Kosten findest Du [hier](https://www.zentrumderfamilie-erding.de/veranstaltungen/babyzeit.html) auf der Webseite des Zentrum der Familie Erding.
 
 ## Elterncafé in Erding
-Eine entspannte Gelegenheit, um mit anderen Müttern und Vätern ins Gespräch zu kommen. Termine:
+Eine entspannte Gelegenheit, um mit anderen Müttern und Vätern ins Gespräch zu kommen.
+
+Termine:
+
 - Mittwoch, 08. November    15:00
 - Mittwoch, 06. Dezember    15:00
 - Mittwoch, 10. Januar    15:00
