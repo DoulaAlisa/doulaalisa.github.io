@@ -2,32 +2,32 @@
 Termine und Neuigkeiten rund um meine Arbeit als Doula in Erding und Umgebung.
 
 ## Babymassage in Erding
-Ich biete nun auch Babymassage- Berührung mit Respekt® an.
+Ich biete Babymassage- Berührung mit Respekt® an.
 
-Termine:
+### Kurs 1
+9:30-10:45 Uhr, 6 mal Dienstags ab 7. November 2017
 
-* Dienstag, 07. November    11:15
-* Dienstag, 14. November    11:15
-* Dienstag, 21. November    11:15
-* Dienstag, 28. November    11:15
-* Dienstag, 05. Dezember    11:15
-* Dienstag, 12. Dezember    11:15
+### Kurs 2
+11:15-12:30 Uhr, 6 mal Dienstags ab 7. November 2017
+
+### Kurse 2018
+- 5x Dienstags ab 9. Januar 2018
+- 5x Dienstags ab 20. Februar 2018
+- 5x Dienstags ab 10. April 2018
+- 6x Dienstags ab 5. Juni 2018
 
 Veranstaltungsort: Katholisches Bildungswerk im Landkreis Erding e.V. und Zentrum der Familie Kirchgasse 7, 85435 Erding
 
-Details zum Kurs findest Du [hier](https://www.facebook.com/events/1130136243787785/) auf Facebook.
+Details zu den Kursen findest Du [hier](https://www.facebook.com/pg/DoulaAlisaFoth/events/?ref=page_internal) auf Facebook.
 
-Anmeldung und Kosten findest Du [hier](https://www.zentrumderfamilie-erding.de/intern/programm-backend/kbw/zdferding/veranstaltung/-/17136.html).
+Anmeldung und Kosten findest Du [hier](https://www.zentrumderfamilie-erding.de/veranstaltungen/babyzeit.html) auf der Webseite des Zentrum der Familie Erding.
 
 ## Elterncafé in Erding
-Eine entspannte Gelegenheit, um mit anderen Müttern und Vätern ins Gespräch zu kommen.
-
-Termine:
-
-* Mittwoch, 08. November    15:00
-* Mittwoch, 06. Dezember    15:00
-* Mittwoch, 10. Januar    15:00
-* Mittwoch, 07. Februar    15:00
+Eine entspannte Gelegenheit, um mit anderen Müttern und Vätern ins Gespräch zu kommen. Termine:
+- Mittwoch, 08. November    15:00
+- Mittwoch, 06. Dezember    15:00
+- Mittwoch, 10. Januar    15:00
+- Mittwoch, 07. Februar    15:00
 
 Veranstaltungsort: Katholisches Bildungswerk im Landkreis Erding e.V. und Zentrum der Familie Kirchgasse 7, 85435 Erding
 
