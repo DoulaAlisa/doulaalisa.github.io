@@ -9,3 +9,7 @@ Meine Ausbildung zur Doula habe ich bei Melanie Schöne (Doulas in Deutschland e
 Zusätzlich bin ich zertifizierte SAFE®- Mentorin.
 
 Hierbei handelt es sich um ein Programm zur Förderung der sicheren Bindung zwischen Eltern und Kind (Sichere Ausbildung Für Eltern) entwickelt von OA PD Dr. med. Karl Heinz Brisch.
+
+# Ausbildung zur Kursleiterin für Babymassage
+
+Die Ausbildung zur Kursleiterin für Babymassage habe ich bei der Deutschen Gesellschaft für Baby- und Kindermassage e.V. absolviert. "Babymassage – Berührung mit Respekt®" dient einer gelungenen Bindungsentwicklung und verhilft Eltern und Kindern zu einem guten Start. Die Eltern-Kind-Beziehung hat in den Kursen der DGBM e.V. immer einen hohen Stellenwert.

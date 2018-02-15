@@ -24,7 +24,7 @@ Durch die Anwesenheit einer Doula kann
 - die Geburtsdauer um einige Stunden verkürzt werden (rund 25 % kürzer)
 - der Bedarf und damit die Menge der Schmerzmittel oder wehenfördernder Mittel reduziert werden
 	- Nachfrage nach einer PDA um 60% verringert 
-    - Oxytocin-Verabreichung um (Wehentropf) 40% verringert
+    - Oxytocin-Verabreichung (Wehentropf) um 40% verringert
 - die Eingriffsrate verringert werden 
 	- Zangen-/Saugglockengeburt verringert um 40% 
     - Kaiserschnittrate verringert um 50%

@@ -5,16 +5,17 @@ Termine und Neuigkeiten rund um meine Arbeit als Doula in Erding und Umgebung.
 Ich biete Babymassage- Berührung mit Respekt® an.
 
 ### Kurs 1
-9:30-10:45 Uhr, 6 mal Dienstags ab 7. November 2017
+
+9:30-10:45 Uhr,5 mal Dienstags ab 20. Februar 2018
 
 ### Kurs 2
-11:15-12:30 Uhr, 6 mal Dienstags ab 7. November 2017
 
-### Kurse 2018
-- 5x Dienstags ab 9. Januar 2018
-- 5x Dienstags ab 20. Februar 2018
-- 5x Dienstags ab 10. April 2018
-- 6x Dienstags ab 5. Juni 2018
+11:15-12:30 Uhr, 5 mal Dienstags ab 20. Februar 2018
+
+### Kurse Frühjahr/Sommer 2018
+
+5x Dienstags ab 20.Februar 2018
+6x Dienstags ab 5. Juni 2018
 
 Veranstaltungsort: Katholisches Bildungswerk im Landkreis Erding e.V. und Zentrum der Familie Kirchgasse 7, 85435 Erding
 
@@ -27,10 +28,13 @@ Eine entspannte Gelegenheit, um mit anderen Müttern und Vätern ins Gespräch z
 
 Termine:
 
-- Mittwoch, 08. November    15:00
-- Mittwoch, 06. Dezember    15:00
-- Mittwoch, 10. Januar    15:00
-- Mittwoch, 07. Februar    15:00
+- Mittwoch, 07. Februar  15:00
+- Mittwoch, 07. März     15:00
+- Mittwoch, 11. April    15:00
+- Mittwoch, 02. Mai      15:00
+- Mittwoch, 06. Juni     15:00
+- Mittwoch, 04.Juli      15:00
+
 
 Veranstaltungsort: Katholisches Bildungswerk im Landkreis Erding e.V. und Zentrum der Familie Kirchgasse 7, 85435 Erding
 

@@ -22,12 +22,6 @@ Babymassage wird eine tiefe Bindung zwischen Ihnen und Ihrem Kind herstellen. Di
 ### Bedeutung von „Berührung mit Respekt“
 Durch die immer wieder kehrende Berührung durch die Massage, lernt das Baby, was es bedeutet, einen anderen Menschen in einer gesunden, respektvollen Weise zu berühren.
 
-Dieses Konzept der Babymassage - Berührung mit Respekt® - erweitert ab sofort mein Angebot. Mein Kursinhalt beinhaltet unter anderem die feinfühlige Anleitung zur Massage in besonderen Situationen wie Koliken, in verschiedenen Entwicklungsphasen, bei Frühgeborenen, Kindern mit besonderen Bedürfnissen uvm.
-<<<<<<< Updated upstream
+Dieses Konzept der Babymassage - Berührung mit Respekt® - erweitert mein Angebot. Mein Kursinhalt beinhaltet unter anderem die feinfühlige Anleitung zur Massage in besonderen Situationen wie Koliken, in verschiedenen Entwicklungsphasen, bei Frühgeborenen, Kindern mit besonderen Bedürfnissen uvm.
 
-### Babymassage in Erding
-Ich biete nun auch Babymassage- Berührung mit Respekt® an. Termine und Preise auf Anfrage. Bei Interesse kannst Du gerne einen Platz reservieren.
-
-**Anmeldung zur Babymassage**: Bitte per E-Mail oder telefonisch ([hier](http://geburt-doula.de/contact/index.html) findest Du meine Kontaktdaten)
-=======
->>>>>>> Stashed changes
+Ich biete Babymassage - Berührung mit Respekt® - aktuell im Zentrum der Familie in Erding an. Termine und Preise auf Anfrage bei mir oder direkt im [Zentrum der Familie](https://www.zentrumderfamilie-erding.de/kontakt.html). Bei Interesse kannst Du gerne einen Platz reservieren.
