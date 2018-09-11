@@ -21,7 +21,7 @@ Im Wochenbett vereinbaren wir zwei weitere Termine, in denen wir Ihre Erfahrunge
 
 Weitere Gespräche oder Angebote können gerne nach Wunsch jederzeit vereinbart werden.
 
-Wenn Sie sich nach einem Kennenlerntermin (dieser Besuch ist unverbindlich und kostet 15,- Euro), für eine Begleitung durch mich als Doula entscheiden, werden wir einen Vertrag miteinander schließen.
+Wenn Sie sich nach einem Kennenlerntermin (dieser Besuch ist unverbindlich und kostet 20,- Euro), für eine Begleitung durch mich als Doula entscheiden, werden wir einen Vertrag miteinander schließen.
 
 Kosten sind zzgl. Fahrtkosten (20 km Umkreis vom Wohnort Erding inkl. bei weiterer Anfahrt 0,30 €/km) .
 

@@ -1,0 +1,15 @@
+---
+layout: default
+title: Datenschutz
+slug: privacy
+lead: "Hinweise zum Datenschutz"
+base_url: "../../"
+---
+<main class="app-page" id="content">
+  <div class="app-page-body">
+    <div class="app-page-body-section">
+      {% capture copy_privacy_01 %}{% include copy/privacynotice/privacynotice.md %}{% endcapture %}
+      {{ copy_privacy_01 | markdownify }}
+    </div>
+  </div>
+</main>
