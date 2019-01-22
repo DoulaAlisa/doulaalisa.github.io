@@ -26,7 +26,7 @@ Dieses Konzept der Babymassage - Berührung mit Respekt® - erweitert ab sofort 
 <<<<<<< Updated upstream
 
 ### Babymassage in Erding
-Ich biete nun auch Babymassage- Berührung mit Respekt® an. Termine und Preise auf Anfrage. Bei Interesse kannst Du gerne einen Platz reservieren.
+Ich biete nun auch Babymassage- Berührung mit Respekt® an. Termine und Preise findest Du unter ([News](https://geburt-doula.de/news/index.html). Bei Interesse kannst Du gerne einen Platz reservieren.
 
 **Anmeldung zur Babymassage**: Bitte per E-Mail oder telefonisch ([hier](http://geburt-doula.de/contact/index.html) findest Du meine Kontaktdaten)
 =======

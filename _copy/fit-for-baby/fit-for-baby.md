@@ -32,6 +32,6 @@ Um individuell und persönlich auf die Teilnehmerinnen eingehen zu können, ist 
 ## Fit for Baby- ein kompetenter Start ins Eltern sein
 Termine und Preise: bitte anfragen
 
-6 Abende zu je ca. 2 Std
+- Bitte beachte Sie, dass zurzeit kein Fit for Baby Kurs stattfinden kann! 
 
 Ich bitte um frühzeitige Anmeldung zu einem meiner Kurse, da das Teilnehmen an bereits laufenden Kursen leider nicht möglich ist.
