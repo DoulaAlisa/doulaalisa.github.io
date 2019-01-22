@@ -31,9 +31,18 @@ Staatlich anerkannte Beratungsstelle für Schwangerschaftsfragen beim Gesundheit
 Einfühlsame Bilder und Filmaufnahmen von ehrenamtlichen Fotografen helfen Eltern von Sternenkindern bei der Trauerbewältigung: [Initiative Dein Sternenkind](http://www.dein-sternenkind.de/)
 
 ###Trageberatung
-Trageberatung für alle Fragen rund ums Tragen (mit Verleih) und Babymassagekurse: 
-[Trageberatung Erding](http://www.babymassage-erding.de/)
+Trageberatung für alle Fragen rund ums Tragen (mit Verleih) und Stoffwindelberatung: 
+[Trageberatung Erding](http://www.wrapbaby-erding.de/)
 
 ###SAFE®
 SAFE® ist ein Programm, das die sichere Bindung zwischen Eltern und Kind fördert. Es wurde entwickelt von Dr. med. Karl-Heinz Brisch:
 [SAFE®](www.safe-programm.de)
+
+###Zentrum der Familie Erding
+Babymassagekurse und Themen rund ums Baby
+
+Das Zentrum der Familie bietet Angebote für die Lebensgestaltung junger Familien. Sie unterstützen, fördern und begleiten.
+
+Sie stärken Eltern in ihrer Erziehungskompetenz und fördern das Miteinander in der Familie. Eine der Kernkompetenzen des Zentrums der Familie ist die primäre Prävention in der Familienanfangszeit. Als lokale Einrichtung ist das Zentrum der Familie vernetzt mit anderen Fachstellen im Landkreis (Jugendamt, Erziehungsberatung, Fachbereich Tagesmütter und Kindergartenfachberatung):
+[Zentrum der Familie Erding](https://www.zentrumderfamilie-erding.de/index.php?id=381)
+
